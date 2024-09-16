@@ -4,6 +4,10 @@ const path = require('path');
 const SOURCE_DIR = path.resolve(__dirname, '../data');
 const OUTPUT_DIR = path.resolve(__dirname, '../public');
 
+function isAllowedName(name) {
+  return !name.startsWith('.') && !name.startsWith('_');
+}
+
 async function generateIndex(dirPath, relativePath = '') {
   const items = await fs.readdir(dirPath, { withFileTypes: true });
 
@@ -38,13 +42,17 @@ async function generateIndex(dirPath, relativePath = '') {
   directories.sort((a, b) => a.name.localeCompare(b.name));
   for (const dir of directories) {
     const dirPathRelative = path.join(relativePath, dir.name);
-    htmlContent += `    <li>📁 <a href="${encodeURIComponent(dir.name)}/">${dir.name}/</a></li>\n`;
+    if(isAllowedName(dir.name)) {
+      htmlContent += `    <li>📁 <a href="${encodeURIComponent(dir.name)}/">${dir.name}/</a></li>\n`;
+    }
   }
 
 
   files.sort((a, b) => a.name.localeCompare(b.name));
   for (const file of files) {
-    htmlContent += `    <li>📄 <a href="${encodeURIComponent(file.name)}">${file.name}</a></li>\n`;
+    if (isAllowedName(file.name)) {
+      htmlContent += `    <li>📄 <a href="${encodeURIComponent(file.name)}">${file.name}</a></li>\n`;
+    }
 
     const srcFile = path.join(dirPath, file.name);
     const destFile = path.join(OUTPUT_DIR, relativePath, file.name);
