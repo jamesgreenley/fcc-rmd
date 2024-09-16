@@ -11,8 +11,8 @@ function isAllowedName(name) {
 async function generateIndex(dirPath, relativePath = '') {
   const items = await fs.readdir(dirPath, { withFileTypes: true });
 
-  const directories = items.filter(item => item.isDirectory());
-  const files = items.filter(item => item.isFile());
+  const directories = items.filter(item => item.isDirectory() && isAllowedName(item.name));
+  const files = items.filter(item => item.isFile() && isAllowedName(item.name));
 
   let htmlContent = `
 <!DOCTYPE html>
