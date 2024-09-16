@@ -4,11 +4,15 @@ const path = require('path');
 const SOURCE_DIR = path.resolve(__dirname, '../data');
 const OUTPUT_DIR = path.resolve(__dirname, '../public');
 
+function isAllowedName(name) {
+  return !name.startsWith('.') && !name.startsWith('_');
+}
+
 async function generateIndex(dirPath, relativePath = '') {
   const items = await fs.readdir(dirPath, { withFileTypes: true });
 
-  const directories = items.filter(item => item.isDirectory());
-  const files = items.filter(item => item.isFile());
+  const directories = items.filter(item => item.isDirectory() && isAllowedName(item.name));
+  const files = items.filter(item => item.isFile() && isAllowedName(item.name));
 
   let htmlContent = `
 <!DOCTYPE html>
