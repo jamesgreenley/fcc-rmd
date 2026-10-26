@@ -190,14 +190,14 @@ Jerseyville IL 62052","United States of America","618-639-4841","","Partial STIR
 PO Box 398
 Roosevelt UT 84066","No","United States of America","0001601079; 0017586025; 0008809436","STRATA Networks; RINA Wireless; Uintah Basin Long Distance","UBTA-UBET Communications, Inc;  Uintah Basin Electronic Telecommunications, LLC dba UBET Wireless; Rural Independent Network Alliance, LLC, UBLD","Lance Siddoway","CO Telecom Tech","Switch","211 East 200 North
 Roosevelt UT 84066","United States of America","435-622-5007","5323","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-03-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8841ea731bff605064c4426de54bcbe4&view=sp"
-"RMD0001476","0004321030","Affinity Network, Inc.","250 Pilot Rd
+"RMD0001476","0004321030","Affinity Network Incorporated","250 Pilot Rd
 Suite 220
 Las Vegas NV 89119","No","United States of America","0004-3210-06
 0004-3210-97","Affinity DBA's: ANI Networks, HorizonOne Communications, QuantumLink Communications, VoIP Communications, Optic Communications
 NOS Communications, Inc. d/b/a 011 Communciations, International Plus, The Internet Business Association, INETBA, Ivantage Network Solutions, and Blueridge Telecom Systems
 NOSVA, LP d/b/a CierraCom Systems","None","Diane Michelin","Director of Legal Compliance","Legal","250 Pilot Rd
 Suite 220
-Las Vegas NV 89119","United States of America","702-547-8000","","Complete STIR/SHAKEN Implementation","No","Yes","Yes","2026-02-02","2026-02-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=595ffeb71b77a05064c4426de54bcba3&view=sp"
+Las Vegas NV 89119","United States of America","702-547-8000","","Complete STIR/SHAKEN Implementation","No","Yes","Yes","2026-10-20","2026-02-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=595ffeb71b77a05064c4426de54bcba3&view=sp"
 "RMD0001479","0010159515","United World Telecom LC","3333 S Congress Ave
 Suite 300
 Delray Beach FL 33445","No","United States of America","None","GlobalCallForwarding.com
@@ -384,8 +384,7 @@ Ramer AL 36069","No","United States of America","NONE","NONE","NONE","JOE DICKS"
 Ramer AL 36069
 Alabama","United States of America","3345623200","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-19","2026-02-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=33ce60ba1b8cbc502eb2a82fe54bcb2e&view=sp"
 "RMD0001538","0015337090","Mid-Hudson Data Corp","200 Jefferson Heights
-PO Box 399
-Catskill NY 12414","No","United States of America","0000014936
+Catskill New York 12414","No","United States of America","0000014936
 0000012609","Mid-Hudson Cablevision, Inc.
 Catskill Mountain Cablevision","None","Joe Camadine","CTO","Data Department","200 Jefferson Heights
 Catskill NY 12414","United States of America","518-573-8101","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-04-15","2026-02-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7f3af07e1b00b09064c4426de54bcb56&view=sp"
@@ -440,7 +439,7 @@ Pineville MO 64856","United States of America","417-223-4313","","Partial STIR/S
 "RMD0001562","0003730959","River Valley Telephone Coop","106 E Robins Street
 PO BOX 250
 Graettinger IA 51342","No","United States of America","None","None","None","Brian Girres","Plant Manager","Switching","106 E Robins Street
-Graettinger IA 51342","United States of America","7128593300","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-08-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ad5b40f31b4cb010003c43f1f54bcbc2&view=sp"
+Graettinger IA 51342","United States of America","7128593300","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ad5b40f31b4cb010003c43f1f54bcbc2&view=sp"
 "RMD0001563","0004320883","La Ward Telephone Exchange, Inc.","Highway 172
 P. O. Box 246
 La Ward TX 77970","No","United States of America","None","None","None","BJ Bures","IT Manager","IT","Highway 172
@@ -681,7 +680,7 @@ Suite 200
 Weston FL 33326","United States of America","954-271-2882","220","Complete STIR/SHAKEN Implementation","No","Yes","Yes","2026-05-21","2026-02-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ee02b21e1b5c7c10822320efe54bcbc1&view=sp"
 "RMD0001648","0026904763","Headland Communications","PO Box 7775 #23630
 San Francisco CA 94120","No","United States of America","None","None","None","Jamuel Starkey","CEO/CTO","Headland Managed Information Services NOC","PO Box 7775 #23630
-San Francisco CA 94120","United States of America","4152000400","1","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-03-31","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=9c320f521bd0fc10003c43f1f54bcb64&view=sp"
+San Francisco CA 94120","United States of America","4152000400","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=9c320f521bd0fc10003c43f1f54bcb64&view=sp"
 "RMD0001649","0007069867","The Community Agency","102 S Eastern St
 Sanborn IA 51248","No","United States of America","none","TCA","none","D. J. Weber","General Manager","General Compliance","102 S Eastern St
 Sanborn IA 51248","United States of America","712-930-5594","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-06","2026-02-06","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=78e4b9ea1bd4bc10822320efe54bcb73&view=sp"
@@ -2363,7 +2362,7 @@ Bishop CA 93514","United States of America","7608722797","2","No STIR/SHAKEN Imp
 "RMD0002202","0021882451","1stPoint Communications, LLC","15 Corporate Place South
 Suite 100
 Piscataway NJ 08854","No","United States of America","None","None","None","Erik Levitt","Administrator","Legal","401 East 34th Street, N27J
-New York NY 10016","United States of America","2127965502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ca234781b70f0109294113d9c4bcbf3&view=sp"
+New York NY 10016","United States of America","2127965502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ca234781b70f0109294113d9c4bcbf3&view=sp"
 "RMD0002204","0005067186","Pennsylvania Telephone Company","101 Laurel Highland Place
 Donegal PA 15628","No","United States of America","None","None","None","Christine L Lalor","Regulatory Manager","Regulatory","101 Laurel Highland Place
 Donegal PA 15628","United States of America","7245932411","104","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-19","2026-02-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c13c38bc1b30f0107ccf20ecac4bcbc0&view=sp"
@@ -2991,9 +2990,8 @@ Hawarden IA 51023","United States of America","712-551-2565","","No STIR/SHAKEN 
 "RMD0002409","0031043185","Novanet Singapore PTE LTD","30 Cecil Street, #19-08 Prudential Tower
 Singapore 049712 Singapore, Singapore","Yes","Singapore","None","None","None","Pushkar Bansal","Senior Business Analyst","Carrier Relations","30 Cecil Street, #19-08 Prudential Tower
 Singapore 049712 Singapore, Singapore","Singapore","'+6531595382","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2642c3a51bf0381064c4426de54bcbe6&view=sp"
-"RMD0002410","0003666708","Granite State Telephone, Inc.","600 S Stark Highway
-PO Box 87
-Weare NH 03281","No","United States of America","NONE","Granite State Communications","NONE","Joe Kramschuster","Senior Manager- Product Management","Marketing & Consumer Operations","525 Jucntion Rd
+"RMD0002410","0003666708","Granite State Telephone, Inc.","525 Junction Road
+Madison Wisconsin 53717","No","United States of America","NONE","Granite State Communications","NONE","Joe Kramschuster","Senior Manager- Product Management","Marketing & Consumer Operations","525 Jucntion Rd
 MADISON WI 53717
 Madison WI 53717","United States of America","6085777897","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-02","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a06c8be51bf0f4107ccf20ecac4bcb8d&view=sp"
 "RMD0002411","0002591154","Kalona Cooperative Telephone Co","P.O. Box 1208
@@ -3347,7 +3345,7 @@ Calera OK 74730","No","United States of America","None","Cherokee Communications
 Calera OK 74730","United States of America","5804345375","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-27","2026-02-27","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bc58cd421bb078107ccf20ecac4bcbaf&view=sp"
 "RMD0002527","0018814731","Conifer Communications","PO Box 3411
 Sonora CA 95370","No","United States of America","None","None","ThrockWisp, Inc.","Sonja Langan","Director of Company Development","Corp","15274 Camino del Parque
-Sonora CA 95370","United States of America","8663788393","301","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-06-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=18fe45ca1bb078107ccf20ecac4bcb5a&view=sp"
+Sonora CA 95370","United States of America","8663788393","301","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=18fe45ca1bb078107ccf20ecac4bcb5a&view=sp"
 "RMD0002529","0017249558","Evolve Cellular Inc","PO Box 1124
 Rockdale TX 76567","No","United States of America","None","Evolve Broadband","Worldcall Interconnect, Inc.","Brian DeHaven","Vice President","Operations","PO Box 1124
 Rockdale TX 76567","United States of America","7372041490","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-13","2026-02-13","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e7601d8e1bf0b81002beea82f54bcbdd&view=sp"
@@ -3633,10 +3631,10 @@ Erwin TN 37650","No","United States of America","None","None","None","John Frede
 Erwin TN 37650","United States of America","4237354569","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=fd88988b1b7c3c107ccf20ecac4bcbe9&view=sp"
 "RMD0002609","0004966131","COMMUNITY ANTENNA SERVICE, INC.","1525 DUPONT ROAD
 PARKERSBURG WV 26101","No","United States of America","None","CAS, CAS Cable","None","Chris Hildebrecht","Director of Technological Operations","IT","1525 DUPONT ROAD
-PARKERSBURG WV 26101","United States of America","3044202470","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=028c5c8b1bf0bc1002beea82f54bcb09&view=sp"
+PARKERSBURG WV 26101","United States of America","3044202470","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=028c5c8b1bf0bc1002beea82f54bcb09&view=sp"
 "RMD0002610","0019559079","CAS Communications, LLC","1525 Dupont Road
 Parkersburg WV 26101","No","United States of America","None","None","None","Chris Hildebrecht","Director of Technological Operations","IT","1525 Dupont Road
-Parkersburg WV 26101","United States of America","3044202470","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=57cc1ccb1bf0bc1002beea82f54bcbbe&view=sp"
+Parkersburg WV 26101","United States of America","3044202470","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=57cc1ccb1bf0bc1002beea82f54bcbbe&view=sp"
 "RMD0002612","0001630201","Union Telephone Company","850 N. Hwy 414
 PO Box 160
 Mountain View WY 82939","No","United States of America","None","Union Wireless","Union Cellular","Eric Woody","Chief Executive Officer","Corporate","850 N. State Highway 414
@@ -4005,8 +4003,9 @@ Sikeston MO 63801","No","United States of America","None","Fastwyre Broadband","
 Sikeston MO 63801","United States of America","573-481-2763","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-06-16","2026-02-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=66cf65971bb0305064c4426de54bcb2d&view=sp"
 "RMD0002745","0001623818","Project Mutual Telephone Cooperative Association, Inc.","507 G Street
 PO Box 366
-Rupert ID 83350","No","United States of America","None","PMT","None","Brent Stimpson","Network Manager","NOC","507 G Street
-Rupert ID 83350","United States of America","2084347145","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-02-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2de375931b38305002beea82f54bcbc7&view=sp"
+Rupert ID 83350","No","United States of America","None","PMT","None","Brent Stimpson","President/CEO","Accounting","507 G Street
+PO Box 366
+Rupert ID 83350","United States of America","2084347145","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2de375931b38305002beea82f54bcbc7&view=sp"
 "RMD0002748","0031030018","VIGIL INC LTD","Unit 703, 7/F. , Alliance Commercial Bldg,133 Connaught Road, Central
 Hong Kong  Hong Kong, Hong Kong","Yes","China, Hong Kong SAR","none","none","none","Santhosh Kumar","Manager","Quality","Unit 703, 7/F. , Alliance Commercial Bldg,133 Connaught Road, Central
 Hong Kong  Hong Kong, Hong Kong","India","'+919916104895","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-02","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0aa1fd531b38bc109294113d9c4bcbbe&view=sp"
@@ -4444,7 +4443,7 @@ WA 98034 Kirkland, United States","No","United States of America","None","None",
 Kirkland WA 98034","United States of America","302-205-3277","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2b4832a31bf030509294113d9c4bcbf8&view=sp"
 "RMD0002927","0027216191","Jive Technology Inc dba Current Networks","225 S Ocean Ave
 Cayucos CA 93430","No","United States of America","None","Current Networks","None","Matthew Holder","CEO","VoIP","225 S Ocean Ave
-Cayucos CA 93430","United States of America","805-782-1005","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2089b6631bb8b05002beea82f54bcb1e&view=sp"
+Cayucos CA 93430","United States of America","805-782-1005","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2089b6631bb8b05002beea82f54bcb1e&view=sp"
 "RMD0002928","0020037461","CoBridge Communications, LLC d/b/a Sparklight","210 E. Earll Drive
 ATTN: Legal Dept.
 Phoenix AZ 85012","No","United States of America","0020052684","Sparklight","None","Chris Davis","Manager of Voice Engineering","Phone Operations","210 E. Earll Drive
@@ -5657,7 +5656,7 @@ Richardson TX 75081","United States of America","469-265-6273"," ","Complete STI
 Ste 500
 Los Angeles CA 90017","No","United States of America","None","None","None","Giang Nguyen","Business Operations Manager","Network & Infrastructure","835 Wilshire Blvd.
 Ste 500
-Los Angeles CA 90017","United States of America","888-998-9080","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-11-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c46b21581b41f45002beea82f54bcb80&view=sp"
+Los Angeles CA 90017","United States of America","888-998-9080","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c46b21581b41f45002beea82f54bcb80&view=sp"
 "RMD0003334","0019064617","Midvale Telephone Exchange, Inc.","2120 L Street, N.W., Suite 300
 Washington DC 20037","No","United States of America","0029542032, 0029542974","MTE Communications, Midvale Telephone Company, Inc.","None","Robert Vowell","COO","Executive","2205 Keithley Creek Rd
 Midvale ID 83645","United States of America","2083552211","7182","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","Yes","2026-02-24","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d2aaa1d01b05b45064c4426de54bcbae&view=sp"
@@ -6151,13 +6150,13 @@ Suite 280
 Addison TX 75001","United States of America","9727740500","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-04","2026-02-04","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=357dc0551bcdb0109294113d9c4bcbe6&view=sp"
 "RMD0003520","0004374153","Topsham Telephone Company","26 South Main Street
 Hammond NY 13646","No","United States of America","None","None","None","Shelly Cole","Accounting Supervisor","Accounting","26 South Main Street
-Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-07-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1b5d40191b49b01002beea82f54bcb47&view=sp"
+Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1b5d40191b49b01002beea82f54bcb47&view=sp"
 "RMD0003521","0004251419","Guadalupe Valley Telephone Cooperative, Inc.","36101 F.M. 3159
 New Braunfels TX 78132","No","United States of America","None","Guadalupe Valley Telephone Cooperative, Inc. (�GVTC,� d/b/a GVTC Communications); GVTC does not use any other business names, but its affiliates include Guadalupe Valley Communications Systems, L.P. and Guadalupe Valley Enterprises, Inc.","None","Jeff Caroline","Network Engineering Supervisor","Engineering","36101 F.M. 3159
 New Braunfels TX 78132","United States of America","830.885.8327","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-23","2026-02-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=98aa005d1b8db0109294113d9c4bcb19&view=sp"
 "RMD0003522","0004374187","Citizens Telephone Company of Hammond, NY","26 South Main Street
 Hammond NY 13646","No","United States of America","None","None","None","Shelly Cole","Accounting Supervisor","Accounting","26 South Main Street
-Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-07-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=343e44991b49b01002beea82f54bcbac&view=sp"
+Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=343e44991b49b01002beea82f54bcbac&view=sp"
 "RMD0003524","0001762939","BRISTOL TENNESSEE ESSENTIAL SERVICES","P.O. Box 549
 2470 Volunteer Pkwy
 BRISTOL TN 37621","No","United States of America","None","None","None","Michael Parker","Supervisor of Networks","Networks","P.O. Box 549
@@ -6168,7 +6167,7 @@ Hickory PA 15340","United States of America","724-356-2211","","Complete STIR/SH
 "RMD0003527","0016569485","Topsham Communications, LLC","113 Fairground Road
 P.O. Box 1075
 East Corinth VT 05040","No","United States of America","None","None","None","Shelly Cole","Accounting Supervisor","Accounting","26 South Main Street
-Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-07-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6d9e48d91b49b01002beea82f54bcbdf&view=sp"
+Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6d9e48d91b49b01002beea82f54bcbdf&view=sp"
 "RMD0003528","0001730142","South Arkansas Telephone Co.","1st & Main St.
 P O Box 778
 Hampton AR 71744","No","United States of America","None","None","None","Brandon Floyd","Systems Engineer","NOC","1st & Main St.
@@ -8570,14 +8569,14 @@ Goldfield Access Network","None","Randy Yeakel","CEO","Management","105 S Main S
 Kanawha IA 50447","United States of America","641.762.3772","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-03-03","2026-02-03","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=31669eb51b4db4107ccf20ecac4bcb08&view=sp"
 "RMD0004400","0003737665","Bristol Bay Telephone Cooperative, Inc.","PO Box 259
 King Salmon AK 99613","No","United States of America","0004519732","None","None","Michael Tillett","Facilities Engineer","Engineering","PO Box 259
-King Salmon AK 99613","United States of America","907-246-3403","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-01-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a84cde391b89b41002beea82f54bcb8a&view=sp"
+King Salmon AK 99613","United States of America","907-246-3403","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a84cde391b89b41002beea82f54bcb8a&view=sp"
 "RMD0004401","0003732302","Arkansas Telephone Co., Inc.","128 Church Street
 PO Box 69
 Clinton AR 72031","No","United States of America","None","None","None","Randy McCaslin","President","Administrative","128 Church Street
 Clinton AR 72031","United States of America","501-745-2114","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-18","2026-02-18","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=277c96351bc5f4102eb2a82fe54bcb5d&view=sp"
 "RMD0004402","0003737699","Bristol Bay Cellular Partnership","P.O. Box 456
 King Salmon AK 99613","No","United States of America","0001568898","None","None","Michael Tillett","Facilities Engineering","Engineering","P.O. Box 456
-King Salmon AK 99613","United States of America","907-246-3403","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-01-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=cb4d163d1b89b41002beea82f54bcbb8&view=sp"
+King Salmon AK 99613","United States of America","907-246-3403","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=cb4d163d1b89b41002beea82f54bcbb8&view=sp"
 "RMD0004403","0001731850","Northern Arkansas Telephone Company Inc","301 E Main Street
 PO Box 209
 Flippin AR 72634","No","United States of America","None","NATCO
@@ -9713,7 +9712,7 @@ Taipei 11492","Taiwan","'+8862-55558888","","No STIR/SHAKEN Implementation - Per
 STE 103
 Bainbridge Island WA 98110","No","United States of America","None","Net253, LLC","None","Stephen Hellriegel","President","Operations","750 Ericksen Ave NE
 STE 103
-Bainbridge Island WA 98110","United States of America","206 866 9638","2","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d3765e4a1bddf8507ccf20ecac4bcbc0&view=sp"
+Bainbridge Island WA 98110","United States of America","206 866 9638","2","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d3765e4a1bddf8507ccf20ecac4bcbc0&view=sp"
 "RMD0004899","0031073281","Afrique Interconnexion","Bd Bourgogne Rue Jaafar Ibnou Habib Residence Al Aachrik II
 Casablanca 20100 Casablanca, Morocco","Yes","Morocco","none","Africa-Con
 Boxiel
@@ -10715,9 +10714,9 @@ Fort Worth TX 76120","No","United States of America","none","First Choice Comput
 null","","N/A","","N/A","No","No","Yes","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=08c7105c1b9eb8105e240f6fe54bcb1c&view=sp"
 "RMD0005368","0031303688","CIPE Solutions","4521 PGA Blvd
 Unit 234
-Palm Beach Gardens FL 33418","No","United States of America","None","None","None","Jermaine Johnson","Director of Technical Support","Support","10385 Ironwood Rd
+Palm Beach Gardens FL 33418","No","United States of America","None","None","None","Jermaine Johnson","Director of Technology","Technology Department","10385 Ironwood Rd
 Suite 134
-Palm Beach Gardens FL 33410","United States of America","5615666736","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-03-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8a7b90d01b12b81087244000f54bcbce&view=sp"
+Palm Beach Gardens FL 33410","United States of America","5615666736","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8a7b90d01b12b81087244000f54bcbce&view=sp"
 "RMD0005369","0024200073","HEHE Enterprises, LLC","3301-R Coors Rd NE #161
 Albuquerque NM 87120","No","United States of America","None","i9 Technologies","None","Arthur Heffern","Managing Partner","Management","3301-R Coors Rd NE #161
 Albuquerque NM 87120","United States of America","5058007820","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=dc8cd45c1b12b8109294113d9c4bcbab&view=sp"
@@ -10781,12 +10780,12 @@ Snow Hill NC 28580","United States of America","2527475682","204","No STIR/SHAKE
 "RMD0005391","0026646265","Intelegrated, LLC","46390 269th Street
 Tea SD 57064","No","United States of America","None","None","None","Jeff Hind","President","Operations","PO Box 88813
 Sioux Falls SD 57109","United States of America","6057829900","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-10","2026-02-10","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=087534e41b5af810e560873fe54bcbd3&view=sp"
-"RMD0005393","0027214600","Cumulus Communications, Inc.","38 High Ridge Rd
-Redding CT 06896","No","United States of America","None","CCi Voice
+"RMD0005393","0027214600","Cumulus Communications, Inc.","70 Stony Hill Rd
+Bethel Connecticut 06801","No","United States of America","None","CCi Voice
 LeBlanc Communications Group, Inc.
 TeleVerse","LeBlanc Communications Group, Inc.
-TeleVerse","Kristen Froliger","Director of Cloud Services","Operations","38 High Ridge Rd
-Redding CT 06896","United States of America","2036441778","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-05-02","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=cb80d1ec1b5eb8109294113d9c4bcbfb&view=sp"
+TeleVerse","Kristen Froliger","Director of Cloud Services","Operations","70 Stony Hill Rd
+Bethel Connecticut 06801","United States of America","2036441778","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=cb80d1ec1b5eb8109294113d9c4bcbfb&view=sp"
 "RMD0005394","0022548440","Crosswind Cloud Solutions, LLC","2201 N Camino Principal #125
 Tucson AZ 85715","No","United States of America","0034205344","Crosswind Cloud Solutions
 Pilot Services","None","Jordan Morris","VP of Development","Operations","2201 N Camino Principal #125
@@ -11136,11 +11135,10 @@ Raleigh NC 27607","United States of America","9198900000","319","Complete STIR/S
 "RMD0005576","0031118664","TELECOMMUNICATIEBEDRIJF SURINAME","Heiligenweg 14
 Paramaribo 000000 Paramaribo, Suriname","Yes","Suriname","None","None","None","John A Culbard","Mr","Network Operations Management","Heiligenweg 14
 Paramaribo 000000 Paramaribo, Suriname","Suriname","'+5978500027","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4dd9ef941be278107ccf20ecac4bcbce&view=sp"
-"RMD0005577","0030930614","onCloud","1025 Rose Creek Drive
-Suite 620-214
-Woodstock GA 30189","No","United States of America","None","onCloud myVoice","None","Phil Ciccone","CEO","IT Department","1441 Woodmont Ln NW #500
-Ste 620-214
-Atlanta GA 30318","United States of America","4707297445","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-01","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=604a6f541b2e7810503110ad9c4bcb4c&view=sp"
+"RMD0005577","0030930614","onCloud, LLC","304 S Jones Blvd #1750
+Las Vegas NV 89107","No","United States of America","None","onCloud Cloudspire","onCloud myVoice","Phil Ciccone","CEO","IT Department","304 S. Jones Blvd
+#1750
+Las Vegas NV 89107","United States of America","4049943948","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=604a6f541b2e7810503110ad9c4bcb4c&view=sp"
 "RMD0005579","0007960420","Telrite Corporation","11100 Alcovy Road
 Covington GA 30014","No","United States of America","none","Life Wireless","none","Leah Gsell","Director of Compliance","Compliance","11100 Alcovy Road
 Covington GA 30014","United States of America","770-818-5341","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-27","2026-02-27","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0fb72b141b2a781064c4426de54bcb75&view=sp"
@@ -11855,7 +11853,7 @@ Rainier WA 98576","Yes","U.S. Virgin Islands","None","LuGoSoft","None","N/A","N/
 null","","N/A","","N/A","No","No","Yes","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d6e0fa6e1b26bc10823a419ae54bcb93&view=sp"
 "RMD0005909","0025390295","Improcom INC","1803 Gravesend Neck Road
 Brooklyn NY 11229","No","United States of America","None","None","None","Yury Buslovich","CEO","Business","1803 Gravesend Neck Road
-Brooklyn NY 11229","United States of America","7187693400","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-01","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c21b6a2a1b26bc10823a419ae54bcb39&view=sp"
+Brooklyn NY 11229","United States of America","7187693400","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c21b6a2a1b26bc10823a419ae54bcb39&view=sp"
 "RMD0005910","0031384258","Yves A Martin Consulting, LLC","1130 Cleveland Street
 Suite 250
 Clearwater FL 33755","Yes","U.S. Virgin Islands","None","M-Qual","None","N/A","N/A","N/A","null
@@ -12036,7 +12034,7 @@ California","United States of America","8056421414","103","Complete STIR/SHAKEN 
 "RMD0005976","0029286465","One Click Computers, LLC","W202N10246 Lannon Road
 Germantown WI 53022","No","United States of America","none","none","none","Chad Waldron","Owner","Voip","W202N10246 Lannon Road
 Germantown WI 53022
-WI","United States of America","414-800-1002","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-11","2026-02-11","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5c16ab6e1beebc10e91484cae54bcb91&view=sp"
+WI","United States of America","414-800-1002","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","2026-02-11","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5c16ab6e1beebc10e91484cae54bcb91&view=sp"
 "RMD0005978","0022057962","Tous SoftWare Corp","17447 SW 20 CT
 Miramar FL 33029","No","United States of America","None","None","None","Felipe Hidalgo","President","Administration","17447 SW 20 CT
 Miramar FL 33029","United States of America","'+1 954-809-3100","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-24","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0577efea1be2fc10027562cae54bcbd4&view=sp"
@@ -13498,8 +13496,8 @@ Gainesville FL 32606","United States of America","352-331-0424","","Complete STI
 Jennings LA 70546","No","United States of America","None","Duncanworks, LLC; Public Phone Center; Delgar Alarms","Duncanworks, LLC; Public Phone Center; Delgar Alarms","Jason Duncan","Vice President","Vice President","314 N. Louise Street
 Jennings LA 70546","United States of America","337-453-4301","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-19","2026-02-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c1b435981bbe701093d3a820f54bcb9f&view=sp"
 "RMD0006538","0016973539","321 Communications","4600 Touchton Rd Ste 1150
-Jacksonville FL 32246","Yes","U.S. Virgin Islands","None","None","None","Madeline Rausch","Operations","Operations","4600 Touchton Rd Ste 1150
-Jacksonville FL 32246","United States of America","'+19049459600","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d2da39dc1b3e7010810387bae54bcb00&view=sp"
+Jacksonville FL 32246","No","United States of America","None","None","None","Madeline Rausch","Operations","Operations","4600 Touchton Rd Ste 1150
+Jacksonville FL 32246","United States of America","'+19049459600","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d2da39dc1b3e7010810387bae54bcb00&view=sp"
 "RMD0006539","0031405517","Telcom Solutions Ohio, LLC","134 Hillcrest Ave NW
 North Canton OH 44720","No","United States of America","None","None","None","Carlton Hearne","Member","Robo Call support","134 Hillcrest Ave NW
 North Canton OH 44720
@@ -14006,7 +14004,7 @@ Bentonville AR 72712","United States of America","4794645002","","Complete STIR/
 s300
 Northfield IL 60093","No","United States of America","none","none","none","Vitaly MILMAN","ceo","main","one northfield plaza
 s300
-Northfield IL 60093","United States of America","8476561414","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bd4e9ff81b3af01022e3a681f54bcb2d&view=sp"
+Northfield IL 60093","United States of America","8476561414","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bd4e9ff81b3af01022e3a681f54bcb2d&view=sp"
 "RMD0006752","0016155822","Ethoplex","N115W19150 Edison Dr
 Germantown WI 53022","No","United States of America","None","None","None","Keefe John","CEO","NOC","N115W19150 Edison Dr
 Germantown WI 53022","United States of America","262-252-9000","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8995ab341b7af010c8e0ed3ce54bcb77&view=sp"
@@ -14686,7 +14684,7 @@ Brooklyn NY 11204","United States of America","877-488-6228","","Complete STIR/S
 "RMD0007062","0022546634","NYsolutions.com LLC","3821A 15th Avenue
 Brooklyn NY 11218","No","United States of America","None","None","None","Moishe Grunstein","Manager","Management","3821A 15TH AVE
 UNIT 27
-Brooklyn NY 11218","United States of America","2124007650","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-03-31","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=80b81ad91b3a3410680f657ae54bcb13&view=sp"
+Brooklyn NY 11218","United States of America","2124007650","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=80b81ad91b3a3410680f657ae54bcb13&view=sp"
 "RMD0007063","0031150915","Pakistan Telecommunication Company Ltd","326 E Block PTCL HQ G-8/4
  44000 Islamabad, Pakistan","Yes","Pakistan","None","None","None","Ghulam Murtaza","SM Digital Switching Coordination","Int'l Business Reations","326 E Block PTCL HQ G-8/4
  44000 Islamabad, Pakistan","Pakistan","'+92-51-225-0654","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=101dd2111b3a3410544a404fe54bcb7f&view=sp"
@@ -14702,7 +14700,7 @@ Suite 3
 St. Augustine FL 32084","United States of America","9048230771","7001","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-18","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=34d4e6dd1b32741093d3a820f54bcb0c&view=sp"
 "RMD0007067","0031424088","Southgate Tech, Inc.","1934 Conway Lane
 Aurora IL 60503","No","United States of America","None","None","None","Rick Heuerman","President","IT","1934 Conway Lane
-Aurora IL 60503","United States of America","'+1 331 212 4600","224","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a7ca6edd1bbe3410d39dddb6bc4bcb47&view=sp"
+Aurora IL 60503","United States of America","'+1 331 212 4600","224","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a7ca6edd1bbe3410d39dddb6bc4bcb47&view=sp"
 "RMD0007068","0001726488","American Samoa Telecommunications Authority","Aleki Sene Sr. Telecomm. Center
 PO Box M
 Tafuna AS 96799","No","United States of America","0025719360","ASTCA ILEC
@@ -18163,7 +18161,7 @@ Marina CA 93933","No","United States of America","None","Modern Telephone Compan
 Marina CA 93933","United States of America","5599784934","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=34c688a91bc3fc10e1ca848ce54bcb48&view=sp"
 "RMD0008678","0006022602","Enhanced Communications Network, Inc.","1031 S. Glendora Avenue
 West Covina CA 91790","No","United States of America","None","Asian American Association Telcom Services","None","Thomas Haluskey","Director of Operations","Regulatory","1031 S. Glendora Avenue
-West Covina CA 91790","United States of America","8007778003","3590","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b627d4a91bcbfc1093d3a820f54bcb54&view=sp"
+West Covina CA 91790","United States of America","8007778003","3590","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b627d4a91bcbfc1093d3a820f54bcb54&view=sp"
 "RMD0008680","0016724494","IPacket Networks Texas, LLC","5830 Granite Parkway
 Suite 100-298
 Plano TX 75024","No","United States of America","None","None","IPacket Networks, LLC","Mrs. Hillary Morey","VP Finance","Executive","5830 Granite Parkway
@@ -18185,8 +18183,8 @@ null","","N/A","","N/A","No","No","Yes","","","https://fccprod.servicenowservice
 Edison NJ 08818","No","United States of America","None","None","None","Michael Hornby","President","NA","PO BOX 311
 Edison NJ 08818","United States of America","7322000210","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-04-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=882eaca11b8bfc10e4ec848ce54bcb38&view=sp"
 "RMD0008689","0031482722","Vonoip Systems, LLC","13900 S. Van Dyke Rd Unit 108
-Plainfield IL 60544","Yes","U.S. Virgin Islands","None","None","None","N/A","N/A","N/A","null
-null","","N/A","","N/A","No","No","Yes","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=34e074611bcbfc10d39dddb6bc4bcb8f&view=sp"
+Plainfield IL 60544","No","United States of America","None","TELGO","None","Pawel Gilewicz","Managing Partner","none","13900 S. Van Dyke Rd Unit 108
+Plainfield IL 60544","United States of America","3123774605","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=34e074611bcbfc10d39dddb6bc4bcb8f&view=sp"
 "RMD0008691","0019766914","Urban Communications, Inc","5320 W 159th Street
 Suite 503
 Oak Forest IL 60452","No","United States of America","none","none","none","Edmund Urban","CEO","Owner","5320 West 159th Street Suite 503
@@ -19505,7 +19503,7 @@ Oakton VA 22124","No","United States of America","None","None","None","Vijay Chi
 Oakton VA 22124","United States of America","703-629-8176","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-12-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8a72caf31beb381068d1a82eac4bcb65&view=sp"
 "RMD0009355","0024275497","TkFast, Inc.","437 S. Hydraulic St
 Wichita KS 67211","No","United States of America","none","none","none","Steven D. Anderson","President","Operations","437 S. Hydraulic St
-Wichita KS 67211","United States of America","3162602500","2200","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-04-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d959cd881bf3b8105e240f6fe54bcb2f&view=sp"
+Wichita KS 67211","United States of America","3162602500","2200","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d959cd881bf3b8105e240f6fe54bcb2f&view=sp"
 "RMD0009357","0031537764","Zathura IT Solutions OPC Private Limited","B Block Market, Sector 62
 Gautam Buddha Nagar 201301 Noida, India","Yes","India","None","None","None","N/A","N/A","N/A","N/A","","N/A","","N/A","No","No","Yes","","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6856b5881bbf7810d49ca86ce54bcb5e&view=sp"
 "RMD0009359","0031617780","PACT MSO","322 E Main St.
@@ -19670,7 +19668,7 @@ San Francisco CA 94108","United States of America","4155620100","","No STIR/SHAK
 Suite 335
 tarzana CA 91356","Yes","Canada","none","none","none","Dave Ahmadabadi","COO","Legal","5530 Corbin Ave
 Suite 335
-tarzana CA 91356","United States of America","'+16046373819","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a956aefc1b4841103e8aa93be54bcb30&view=sp"
+tarzana CA 91356","United States of America","'+16046373819","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a956aefc1b4841103e8aa93be54bcb30&view=sp"
 "RMD0009481","0031671225","TeleOneTen Inc","5925 E Evans Ave Suite110
 CO 80222 Denver, United States","No","United States of America","none","none","none","David Shekarchian","CEO","Legal","5925 E Evans Ave Suite110
 CO 80222 Denver, United States","United States of America","3033238884","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=127c6ef01b8841103e8aa93be54bcb30&view=sp"
@@ -20926,7 +20924,7 @@ Canon City CO 81212","No","United States of America","None","None","None","N/A",
 Suite 200
 Henderson NV 89052","No","United States of America","None","None","None","Jeff Weinstein","President","All","871 Coronado Center Drive
 Suite 200
-Henderson NV 89052","United States of America","7254333278","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5f27c0231bc34510dabd2f41f54bcbf9&view=sp"
+Henderson NV 89052","United States of America","7254333278","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-10-22","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5f27c0231bc34510dabd2f41f54bcbf9&view=sp"
 "RMD0011162","0019606250","Open Net, Inc.","PO BOX 1688
 New York NY 10013","No","United States of America","NONE","Bway.net","NONE","Josh Rosen","VP","Management","PO Box 1688
 New York NY 11249","United States of America","2129829800","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-27","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=201c1ca71b8f05102eb2a82fe54bcbbb&view=sp"
@@ -20974,7 +20972,7 @@ ON L3B 0G2 Thorold, Canada","Canada","'+1-647-455-3079","","Complete STIR/SHAKEN
 Suite #N27J
 New York NY 10016","No","United States of America","None","None","None","Erik Levitt","CEO","Corporate","401 East 34th Street
 N27J
-New York NY 10016","United States of America","'+1 212 796 5502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3e8cc0c61b17c910dabd2f41f54bcbb3&view=sp"
+New York NY 10016","United States of America","'+1 212 796 5502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3e8cc0c61b17c910dabd2f41f54bcbb3&view=sp"
 "RMD0011222","0032373722","","","Yes","United Kingdom","None","None","None","Dovid Cowan","Director","Telecoms","","United Kingdom","'+442084971020","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-04-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0645060a1b1bc910dabd2f41f54bcb77&view=sp"
 "RMD0011223","0032317752","Integral Worldwide Limited","Mulberry Grove, PO Box 3653
 Berkshire RG40 9NN Wokingham, United Kingdom","Yes","United Kingdom","None","None","None","Richard Van den Bergh","President","Administration","Mulberry Grove, PO Box 3653
@@ -22006,9 +22004,6 @@ Wyoming WY 82801","United States of America","'+1307-554-1800","","No STIR/SHAKE
 San Antonio TX 78232","No","United States of America","None","None","None","James Quail","President","Operations","14546 Brook Hollow  Blvd
 #365
 San Antonio TX 78232","United States of America","210-860-4242","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-03-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1138a6d41bdadd10b7fca93ce54bcb86&view=sp"
-"RMD0012330","0032931867","All in One Computer Services, LLC","1012 39th ST NE
-Canton OH 44714","No","United States of America","None","None","None","Joshua Speer","Owner","Administration","1012 39th ST NE
-Canton OH 44714","United States of America","3307371023","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-04-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=191ff6a41b1ed91093d3a820f54bcb54&view=sp"
 "RMD0012333","0032932204","Grand Telecom","150 Grandview Ave
 Monsey NY 10952","No","United States of America","None","None","None","Shmuel Robinson","Owner","Owner","150 Grandview Ave
 Monsey NY 10952","United States of America","8456679777","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-01-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b51b7b681bd659101ec7a93ce54bcbf1&view=sp"
@@ -23269,7 +23264,7 @@ New Delhi  New delhi, India","Yes","India","none","none","none","N/A","N/A","N/A
 New Delhi  New delhi, India","India","'+919722466945","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","Yes","No","2023-06-01","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=86c85f5b1b03215022e3a681f54bcbd4&view=sp"
 "RMD0013852","0033848292","Newby Technologies, LLC","PO Box 14161
 Bradenton FL 34280","No","United States of America","None","None","None","Randy Newby","President","Headquarters","PO Box 14161
-Bradenton FL 34280","United States of America","9412530073","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-01-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=acbd51631b43a15093d3a820f54bcb44&view=sp"
+Bradenton FL 34280","United States of America","9412530073","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=acbd51631b43a15093d3a820f54bcb44&view=sp"
 "RMD0013856","0033249814","Roam Direct, LLC","1540 W. Market St.
 Akron OH 44313","No","United States of America","None","None","None","Maxwell Ashurst ","President","Operations","1540 W. Market St.
 Akron OH 44313","United States of America","8889066938","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=12eff5771b872150822320efe54bcb6b&view=sp"
@@ -24036,10 +24031,10 @@ Gauteng 1692 Centurion, South Africa","Yes","South Africa","None","None","None",
 "RMD0015327","0034264341","LENSKART LCC","127N HIGGINS AVE STE 307D #345 MISSOULA,
 None
 MISSOULA MT 59802","No","United States of America","NONE","superlative fashion","NONE","N/A","N/A","N/A","N/A","","N/A","","N/A","No","No","Yes","2023-10-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ac35b5f8729fd10ffcc0dc50cbb3595&view=sp"
-"RMD0015328","0034311779","SaaS Labs US, Inc.","355 Bryant Street
+"RMD0015328","0034311779","AtomsAI, Inc.","355 Bryant Street
 #403
-San Francisco California 94107","No","United States of America","None","JustCall","None","Attn: Legal Department","Legal Counsel","Legal","355 Bryant Street, #403
-San Francisco CA 94107","United States of America","4159153629","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-26","2026-02-26","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=514b57571b29b15066b76356624bcb88&view=sp"
+San Francisco CA 94107","No","United States of America","None","JustCall","None","Attn: Legal Department","Legal Counsel","Legal","355 Bryant Street, #403
+San Francisco CA 94107","United States of America","4159153629","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","2026-02-26","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=514b57571b29b15066b76356624bcb88&view=sp"
 "RMD0015330","0032986473","Archtop Fiber LLC","300 Enterprise Drive
 Kingston NY 12401","No","United States of America","None","None","None","Andrian Lubimov","Vice President","Network Engineering and Operations","300 Enterprise Drive
 Kingston NY 12401","United States of America","2033132579","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-02","2026-03-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2405e4631ba17150dfc50fe4604bcbe3&view=sp"
@@ -24118,7 +24113,7 @@ New York NY 10001","United States of America","888 977 7486","","Complete STIR/S
 Suite J
 Hauppauge NY 11788","No","United States of America","None","None","None","Mark Murawski","Partner","IT","89 Cabot Court
 Suite J
-Hauppauge NY 11788","United States of America","518-320-7755","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4b8371288702b5104d94a75e3fbb3564&view=sp"
+Hauppauge NY 11788","United States of America","518-320-7755","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4b8371288702b5104d94a75e3fbb3564&view=sp"
 "RMD0015411","0033669623","Communication Management Services LLC","900 Straits Tpke Suite 204
 Middlebury CT 06762","No","United States of America","none","none","none","Michael Pratt","CTO","Engineering","900 Straits Tpke Suite 204
 Middlebury CT 06762","United States of America","800-605-5994","","Complete STIR/SHAKEN Implementation","Yes","No","Yes","2024-12-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1bb81eecdb067510d2dfa36813961991&view=sp"
@@ -24433,7 +24428,7 @@ Houston TX 77057","United States of America","3466498768","","Complete STIR/SHAK
 "RMD0015854","0033273202","Intrepid Telecom, Inc.","PO BOX 469
 Houston TX 77001","No","United States of America","None","None","None","Michael Palmer","President","NOC","1421 Preston St Ste 1000
 Houston TX 77006
-Texas","United States of America","2818265800","5801","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-05-11","2026-02-12","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a1c788b01befbd1028c8c958624bcb35&view=sp"
+Texas","United States of America","2818265800","5801","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","2026-02-12","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a1c788b01befbd1028c8c958624bcb35&view=sp"
 "RMD0015857","0031202765","Voipedia","66 W Flagler Street, Suite 900
 Miami FL 33130","No","United States of America","None","None","None","Ayaz Haider","CEO","Executive","66 W Flagler Street, Suite 900
 Miami FL 33130","United States of America","8882095498","","Complete STIR/SHAKEN Implementation","Yes","Yes","No","2026-02-24","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b22dc5341ba37150d9b4caa8624bcb2b&view=sp"
@@ -24529,7 +24524,7 @@ DC 111221 BOGOTA, Colombia","Yes","Colombia","None","None","None","Luis Armando 
 DC 111221 BOGOTA, Colombia","Colombia","'+573503189900","1003","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","Yes","No","2024-01-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=dd6614081bfbb950d9b4caa8624bcbf9&view=sp"
 "RMD0015944","0006401061","SHELCOMM","14160 LIVE OAK AVE., UNIT C
 BALDWIN PARK CA 91760","No","United States of America","None","None","None","Michael D Schelin","Vice President of Mobile Operations","No special department","14160 LIVE OAK AVE., UNIT C
-BALDWIN PARK CA 91760","United States of America","6268142354","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=95b949c01bff795079d752c6624bcb19&view=sp"
+BALDWIN PARK CA 91760","United States of America","6268142354","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=95b949c01bff795079d752c6624bcb19&view=sp"
 "RMD0015951","0034556811","byteworth llc","30 N Gould St Ste R
 Sheridan WY 82801","No","United States of America","0034632398","none","none","Greg Scott Hill","Owner","Customer Service","30 N Gould St Ste R
 Sheridan WY 82801","United States of America","7609178670","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=141333501b7f31100b916577624bcbe8&view=sp"
@@ -24575,7 +24570,7 @@ HONG KONG 999077","China","'+15228525578","","No STIR/SHAKEN Implementation - Pe
 Ste 100
 New York NY 10016","No","United States of America","None","None","None","Erik Levitt","CEO","Management","15 Corporate Pl S
 Ste 100
-New York NY 10016","United States of America","2127965500","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b75da7311bb37510dfc50fe4604bcbcf&view=sp"
+New York NY 10016","United States of America","2127965500","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b75da7311bb37510dfc50fe4604bcbcf&view=sp"
 "RMD0015982","0034776013","Voip Talk LLC","3108 Old Denton Rd
 Carrollton TX 75007","No","United States of America","none","none","none","Rosalyn Donnelly","Rosalyn Donnelly","Administration","3108 Old Denton Rd
 Carrollton TX 75007","United States of America","(972) 394-1618","","Complete STIR/SHAKEN Implementation","No","Yes","No","2024-01-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6801e502877fb51003cd539d3fbb3573&view=sp"
@@ -25015,7 +25010,7 @@ Weavox Business Voice","None","Christopher B Moore","President/CEO","Administrat
 Santa Rosa California 95403","United States of America","8444923269","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-06","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a36747b0db680610d2dfa3681396190d&view=sp"
 "RMD0017018","0034953000","Innovative Phone Systems, LLC (DBA D&S Technologies)","5665 S. 108th St
 Hales Corners WI 53130","No","United States of America","None","None","None","Joseph Olla","Senior Technician","Service","5665 S. 108th St
-Hales Corners WI 53130","United States of America","2627891111","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ad74f3887640610467d0ed8cebb35c2&view=sp"
+Hales Corners WI 53130","United States of America","2627891111","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ad74f3887640610467d0ed8cebb35c2&view=sp"
 "RMD0017019","0023676141","Desert Telecom Inc.","73680 Highway 111
 Palm Desert CA 92260","No","United States of America","none","none","none","Ian Helmstadter","President","Administration","73680 Highway 111
 Palm Desert CA 92260","United States of America","7608377000","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=927c0bb887e406101dda87f9cebb353a&view=sp"
@@ -25052,7 +25047,7 @@ NBR 5249JX Rosmalen, Netherlands","Netherlands","'+31888892211","","No STIR/SHAK
  16440 Kista, Sweden","Sweden","'+46852507753","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-02-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0edad1c5db604610bf8e1b5813961987&view=sp"
 "RMD0017051","0033922428","Varconnect Cloud, LLC","273 Pinegrove Ave,
 Rochester NY 14617","No","United States of America","None","None","None","Matthew Pease","Owner","Main","273 Pinegrove Ave,
-Rochester NY 14617","United States of America","5855639500","102","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8b1c86851be88610a4b75318624bcb38&view=sp"
+Rochester NY 14617","United States of America","5855639500","102","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8b1c86851be88610a4b75318624bcb38&view=sp"
 "RMD0017053","0022505283","Copper Valley Wireless, LLC","329 Fairbanks Street
 Valdez AK 99686","No","United States of America","None","Copper Valley Telecom","None","Kean Ownbey","Revenue Compliance Manager","Commercial","PO Box 337
 Valdez AK 99686","United States of America","907.835.7734","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-24","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7c2fcec987684610ab3765b70cbb3572&view=sp"
@@ -25283,7 +25278,7 @@ Suite 301
 Bridgeville PA 15017","United States of America","412-489-1100","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-10","2026-02-10","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2ff37b851be846100073edf7624bcb3d&view=sp"
 "RMD0017352","0034960492","Tecnowireless Corp","14786 SW 43rd way
 Miami FL 33185","No","United States of America","None","None","None","Ramon Castro","President","CEO","14786 SW 43rd way
-Miami FL 33185","United States of America","7866834336","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-02-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=40c27b091ba48610ce3364a8624bcb77&view=sp"
+Miami FL 33185","United States of America","7866834336","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=40c27b091ba48610ce3364a8624bcb77&view=sp"
 "RMD0017365","0034959114","PORTMAN HOLDINGS L.L.C.","1641 S MIlford Rd
 ste: A-102a
 Highland MI 48357","No","United States of America","none","Textdrip LLC","none","Theodore Gaushas","COO","Operations","1641 S MIlford Rd
@@ -25568,7 +25563,7 @@ CHENEY WA 99004","No","United States of America","none","none","none","Jennifer 
 Cheney WA 99004","United States of America","509-624-7129","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-10-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3aae003d1ba0c6100073edf7624bcb91&view=sp"
 "RMD0018072","0032879082","CTSTS LLC","10470 NW 26TH ST, SUITE A
 Doral FL 33172","No","United States of America","None","CTSVOIP, CTS Technical Support","None","Klauber Walz Rocha","CTO","Technical","10470 NW 26TH ST, SUITE A
-Doral FL 33172","United States of America","7867162087","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-02-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=79db78791ba8c610b68ea828624bcb01&view=sp"
+Doral FL 33172","United States of America","7867162087","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=79db78791ba8c610b68ea828624bcb01&view=sp"
 "RMD0018085","0002598779","Allamakee-Clayton Electric Cooperative Inc","229 Hwy 51
 PO Box 715
 Postville IA 52162","No","United States of America","None","AC Skyways","None","David Decker","Director of Finance","General Office","229 Hwy 51
@@ -26205,7 +26200,7 @@ Sherman TX 75091","No","United States of America","None","TekWav","None","JJ McG
 Sherman TX 75090","United States of America","903-375-9787","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-26","2026-02-26","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b7bd19ae87a44a101dda87f9cebb35a1&view=sp"
 "RMD0019126","0032035511","Maryland IT Solutions, LLC","289 E Main Street
 Westminster MD 21157","No","United States of America","None","None","None","Cory Ditzel","President","Management","289 E Main Street
-Westminster MD 21157","United States of America","4105257700","113","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d0e2eda61ba48a10da74a644604bcbcb&view=sp"
+Westminster MD 21157","United States of America","4105257700","113","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d0e2eda61ba48a10da74a644604bcbcb&view=sp"
 "RMD0019127","0034461236","Slingshot Data Labs, LLC","125 N Executive Drive
 Suite 307
 Brookfield WI 53005","No","United States of America","None","None","None","Wayne Muelver","Owner","Administration","125 N Executive Drive
@@ -27033,9 +27028,6 @@ Houston TX 77041","United States of America","(409) 269-4896","","Complete STIR/
 "RMD0020192","0024847915","Telexent, Inc.","1042 N. Mountain Ave. Ste B
 Upland CA 91786","No","United States of America","None","None","None","Jim Rodgers","Vice President","Operations","1042 N. Mountain Ave. Ste B
 Upland CA 91786","United States of America","909-736-0300","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-19","2026-02-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=88901e021b9dca1063cea8a7624bcbca&view=sp"
-"RMD0020200","0035222918","JPB IT SOLUTIONS","316 W Harrison Ave
-Wheaton IL 60187","No","United States of America","None","None","None","JPB IT SOLUTIONS","Owner","IT","316 W Harrison Ave
-Wheaton IL 60187","United States of America","6305370830","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-04-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b1e10b0a87550e10fcac63970cbb3520&view=sp"
 "RMD0020202","0035223346","Nacion Solar SL","N-340, Km 183
 Malaga 29600 Marbella, Spain","Yes","Spain","None","None","None","Brian Colombana","Manager","NOC","N-340, Km 183
 Malaga 29600 Marbella, Spain","Spain","'+34677124712","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-04-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=68485b821b590e50cb1beca5604bcbf8&view=sp"
@@ -27681,7 +27673,7 @@ w.hempstead NY 11552","No","United States of America","None","None","None","Hash
 w.hempstead NY 11552","United States of America","302-501-6311","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e427ab43970282107e1ed28de053af21&view=sp"
 "RMD0021484","0032871741","Source One Business Services, LLC","6031 University Blvd # 300
 Ellicott City MD 21043","No","United States of America","None","None","None","Eric Alt","Director of Technology","IT","6031 University Blvd # 300
-Ellicott City MD 21043","United States of America","6674011503","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=22ef6b8bdb82821049639f95f39619ec&view=sp"
+Ellicott City MD 21043","United States of America","6674011503","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=22ef6b8bdb82821049639f95f39619ec&view=sp"
 "RMD0021488","0031440530","Internet Technologies Design","8390 West Flagler ST
 SUITE 101
 MIAMI FL 33144","No","United States of America","None","None","None","Karl Perez Felipe","President","CEO","8390 West Flagler ST
@@ -28269,7 +28261,7 @@ SUITE 116
 FRANKLIN TN 37064","United States of America","6152365402","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-06-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=88c2e09b1ba68650df7954e2604bcb9d&view=sp"
 "RMD0021807","0029574563","Alextricity Communications, LLC","527 Main St
 Cabool MO 65689","No","United States of America","None","None","None","Alex Roberts","President","Office of the President","527 main
-Cabool MO 65689","United States of America","5732029960","","Complete STIR/SHAKEN Implementation","Yes","Yes","Yes","2024-06-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f18419f1b628650c0e74223b24bcb17&view=sp"
+Cabool MO 65689","United States of America","5732029960","","Complete STIR/SHAKEN Implementation","Yes","Yes","Yes","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f18419f1b628650c0e74223b24bcb17&view=sp"
 "RMD0021808","0035463322","Felipe Consulting LLC","2798 park view ave
 adrian MI 49221","No","United States of America","none","none","none","Felipe S Villarreal","Felipe Consulting LLC","Felepe Consulting LLC","2798 park view ave
 adrian MI 49221","United States of America","8883201603","1","Complete STIR/SHAKEN Implementation","Yes","Yes","Yes","2024-10-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5fcfc5931b6a4650c2ae0d47624bcb79&view=sp"
@@ -28461,7 +28453,7 @@ Israel","Israel","'+972549164290","502","No STIR/SHAKEN Implementation - Perform
   Beijing, China","China","'+8618406570859","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-06-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c7859449474b8a1073fd0c03e16d4393&view=sp"
 "RMD0021914","0035494533","Infonetics Inc","6095 Iroquois Ct
 Grove City OH 43123","No","United States of America","none","none","none","Lucas Murphy","Technician","IT","6095 Iroquois Ct
-Grove City OH 43123","United States of America","6148752006","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-06-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4e7a340d97c78a508031b22de053aff0&view=sp"
+Grove City OH 43123","United States of America","6148752006","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4e7a340d97c78a508031b22de053aff0&view=sp"
 "RMD0021917","0035603521","Autoscribe Corp","9711 Washingtonian Blvd
 Gaithersburg MD 20878","No","United States of America","none","Paymentvision, Lyons Commercial Data","None","Brian Downey","CTO","IT","9711 Washingtonian Blvd
 Gaithersburg MD 20878","United States of America","2403611624","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-06-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=746dad018787ca10b986a7570cbb3596&view=sp"
@@ -29031,7 +29023,7 @@ Savannah TN 38372","United States of America","7319254916","","Complete STIR/SHA
 Suite 411
 New York NY 10017","No","United States of America","None","None","None","Erik Levitt","CEO","Management","401 E 34th. St
 Suite N27J
-New York NY 10016","United States of America","2127965500","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ec2a93ad975096107738f21de053af27&view=sp"
+New York NY 10016","United States of America","2127965500","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ec2a93ad975096107738f21de053af27&view=sp"
 "RMD0022600","0035817634","KALLZER TECH LLC","112 South Main Ave Ste A PMB#707
 Sioux Falls SD 57104","No","United States of America","None","None","None","Hassan Shahid","Manager","Regulatory","112 South Main Ave Ste A PMB#707
 Sioux Falls SD 57104","United States of America","605-215-5669","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-01","2026-03-01","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2a504071dbdc5610ed9f93d4f396197b&view=sp"
@@ -29213,11 +29205,6 @@ PETERSBURG FL 33702","United States of America","'+44 746 225 8172","","No STIR/
 "RMD0023050","0035974211","Magic Telecom LLC","1621 Central Ave
 Central Ave WY 82001","No","United States of America","none","none","none","John Kimber","CEO","Management","1621 Central Ave
 Central Ave WY 82001","United States of America","7323448632","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-09-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=777f154d8774d610e1cc75d9cebb35eb&view=sp"
-"RMD0023051","0026010397","Anax Business Technology, LLC","8920 W Tropicana Ave
-Ste. 104
-Las Vegas NV 89147","No","United States of America","None","None","None","Dennis Szymczak","Partner","Office","8920 W Tropicana Ave
-Ste. 104
-Las Vegas NV 89147","United States of America","702-478-9000","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-09-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c411250593f4da10ae2efdd86cba10d6&view=sp"
 "RMD0023052","0035974492","Flyp Marketing LLC","1322 North Pine Hills Road
 Orlando FL 32808","No","United States of America","None","None","None","Sam Halls","Director","Operations","9304 FOREST LN STE 256                                  
 Dallas TX 75243-6245","United States of America","803-200-1168","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-12","2026-02-26","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6c4ba5cd93f4da10ae2efdd86cba106f&view=sp"
@@ -29322,7 +29309,7 @@ Noord Holland 1016EV Amsterdam, Netherlands","Yes","Netherlands","None","Telserv
 Noord Holland 1016EV Amsterdam, Netherlands","Netherlands","'+31632000777","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-08-19","2026-02-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b7f2e09c1bc1d210c2ae0d47624bcb32&view=sp"
 "RMD0023237","0030654859","M2 Communications, Inc.","9128 SE Saint Helens St.
 Clackamas OR 97015","No","United States of America","None","None","None","Mark D Ignowski","Vice President","Administration","9128 SE Saint Helens St.
-Clackamas OR 97015","United States of America","503-850-9800","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-09-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3b219d9c1b01d21011336467624bcb69&view=sp"
+Clackamas OR 97015","United States of America","503-850-9800","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3b219d9c1b01d21011336467624bcb69&view=sp"
 "RMD0023241","0035601996","NUMINTEC COMUNICACIONES SL","Diputacio, 279-283 Entlo 2
 BARCELONA 08007 BARCELONA, Spain","Yes","Spain","None","None","None","Luisa","HR Iberia Business Partner","RRHH","Diputaci� 277-279
 Barcelona 08007
@@ -29601,9 +29588,11 @@ Miami Beach FL 33139","United States of America","305-426-6888","","No STIR/SHAK
 "RMD0023842","0036193415","Eureka Network Solutions LLC","101 E Conover Ave
 Eureka IL 61530","No","United States of America","None","None","None","Eureka Network Solutions LLC","Owner","Executive","101 E Conover Ave
 Eureka IL 61530","United States of America","3092299463","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-04","2026-02-04","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f681a2597a95e107738f21de053af80&view=sp"
-"RMD0023852","0035931302","HPCI INCORPORTATED","ONE GATEWAY CENTER, Suit 2600
-Newark NJ 07107","No","United States of America","None","None","None","Hengel Pichardo","Manager","IT","ONE GATEWAY CENTER, Suit 2600
-Newark NJ 07107","United States of America","9734949133","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-10-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=37b632391b2d5e104ff40e1ce54bcb80&view=sp"
+"RMD0023852","0035931302","HPCI INCORPORTATED","ONE GATEWAY CENTER
+SUITE 2600
+Newark New Jersey 07102","No","United States of America","None","None","None","Hengel Pichardo","Manager","IT","ONE GATEWAY CENTER
+SUITE 2600
+Newark New Jersey 07102","United States of America","9734949133","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-10-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=37b632391b2d5e104ff40e1ce54bcb80&view=sp"
 "RMD0023853","0036058261","Vinder SA","RUA FRANCISCO ROCHA
 PARANA 80420-130 CURITIBA, Brazil","Yes","Brazil","None","None","None","Marcio Jos� Concei��o","CTO","Support","RUA FRANCISCO ROCHA
 PARANA 80420-130 CURITIBA, Brazil","Brazil","'+5541988425502","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2024-10-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2cd6b6f987691e10b986a7570cbb35a3&view=sp"
@@ -29933,7 +29922,7 @@ Flowood MS 39232","No","United States of America","none","None","None","Billy Ta
 Flowood MS 39232","United States of America","6019140312","","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=fbb9cde787161e50dd68a9350cbb352a&view=sp"
 "RMD0024649","0036389120","Shift Computer Services","10349 Los Alamitos Bl
 Los Alamitos CA 90720","No","United States of America","None","Shift Unified Communications","None","Support","Support","Support","10349 Los Alamitos Bl
-Los Alamitos CA 90720","United States of America","714.369.8197","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2024-12-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b33941e71b565e503252ec20f54bcb60&view=sp"
+Los Alamitos CA 90720","United States of America","714.369.8197","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b33941e71b565e503252ec20f54bcb60&view=sp"
 "RMD0024658","0031472137","Multipoint Network, Inc","315 N Crescent Dr
 Beverly Hills CA 90210","No","United States of America","0036389351","none","none","Brian Bloom","Principal","IT Department","315 N Crescent Dr
 Beverly Hills CA 90210","United States of America","3106176990","3106176990","Complete STIR/SHAKEN Implementation","Yes","No","No","2024-12-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=af14a9eb1b965e503252ec20f54bcbcc&view=sp"
@@ -30674,7 +30663,7 @@ Houston TX 77010","No","United States of America","NONE","NONE","NONE","Larry Br
 Houston TX 77010","United States of America","2814553811","2814553811","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-02-27","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d4c6dac797275290a59057a00153afd4&view=sp"
 "RMD0026643","0036657203","ByteMe Networks LLC","204 Toluca Trl
 Hewitt TX 76643","No","United States of America","None","None","None","Aaron A Gustafson","CEO","none","204 Toluca Trl
-Hewitt TX 76643","United States of America","254-845-6012","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-04-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4dce1e0b1b2f1e504b29a682604bcb67&view=sp"
+Hewitt TX 76643","United States of America","254-845-6012","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4dce1e0b1b2f1e504b29a682604bcb67&view=sp"
 "RMD0026651","0028886216","Blue Mountain Networks LLC","219 Main Street
 P.O. Box 735
 Chatham NJ 07928","No","United States of America","0029034766, 0008884637","None","None","Erik Lundby","CTO","Techincal","219 Main Street
@@ -31224,7 +31213,7 @@ Seattle WA 98101","United States of America","888-789-5654","","Complete STIR/SH
 N27J
 New York NY 10016","No","United States of America","none","0wire Wholesale","none","Erik Levitt","MBR","Corporate","401 East 34th Street
 N27J
-New York NY 10016","United States of America","'+1 212 796 5502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e70803ad87a02250cc02a8ed3fbb35c7&view=sp"
+New York NY 10016","United States of America","'+1 212 796 5502","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e70803ad87a02250cc02a8ed3fbb35c7&view=sp"
 "RMD0027312","0036852986","Voipified","4030 Wake Forest Road
 STE 349
 Raleigh NC 27609","No","United States of America","none","none","none","Voipified","Founder","Admin","4030 Wake Forest Road
@@ -31442,9 +31431,6 @@ Tampa FL 33606","United States of America","7864385531","","Complete STIR/SHAKEN
 "RMD0027468","0036921187","XOLO IP LLC","2604 North 27th street house 15
 phoenix AZ 85008","No","United States of America","None","None","None","Tyre Dwight Murphy","President","Admin","2604 North 27th street house 15
 phoenix AZ 85008","United States of America","689-223-1864","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-08","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=aae247db1bb8a210379cec2de54bcbce&view=sp"
-"RMD0027470","0036921245","ARPHost, LLC.","653 Willimax Ln
-Durango CO 81303","No","United States of America","None","None","None","William Stetler","President","Support","653 Willimax Ln
-Durango CO 81303","United States of America","9709996032","1000","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-04-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f7b7c75387f8a210b986a7570cbb359e&view=sp"
 "RMD0027483","0036762169","DOLLU LTD.","C/o dollu Ltd, Sonipat, HR 131001
 Haryana 131001 Sonipat, India","Yes","India","0036928497","dollu, dollu foundation, dollu ltd","None","Gobind Monga","Authorized Representative","Operations","C/o dollu Ltd, Sonipat, HR 131001
 Haryana 131001 Sonipat, India","India","'+917775002222","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-04-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=04268cc01b0d261090724000f54bcb12&view=sp"
@@ -31868,7 +31854,7 @@ Westchester IL 60154","No","United States of America","None","The Telephone Comp
 Westchester IL 60154","United States of America","773-902-0000","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-05-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8b37865f87656610e1cc75d9cebb35a3&view=sp"
 "RMD0027868","0006900716","Castle Cable TV, Inc","26 S Main Street
 Hammond NY 13646","No","United States of America","None","None","None","Shelly Cole","Accounting Supervisor","Accounting","26 S Main Street
-Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-07-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b611ddef1b69a610dea35396624bcbca&view=sp"
+Hammond NY 13646","United States of America","315-324-5911","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b611ddef1b69a610dea35396624bcbca&view=sp"
 "RMD0027869","0036769248","AEON COMMUNICATIONS INCORPORATED","100 N Howard ST STE R
 Spokane WA 99201","No","United States of America","none","none","none","Mike Goldsmith","Compliance","Compliance","100 N Howard ST STE R
 Spokane WA 99201","United States of America","719-948-8090","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=907ca96f1b6d6610eb9364eae54bcbe2&view=sp"
@@ -31948,7 +31934,7 @@ Phoenix AZ 85027","No","United States of America","None","None","None","Carl Lor
 Phoenix AZ 85027","United States of America","6022655968","2","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-05-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7dee42f11bfd6a10b2252062f54bcb77&view=sp"
 "RMD0027937","0037088739","SPIREWIND LLC","7018 HAZELETT RD
 FORT WAYNE IN 46835","No","United States of America","None","None","None","Clint G Reynolds","President","Executive","7018 HAZELETT RD
-FORT WAYNE IN 46835","United States of America","2607499000","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-07-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5c379ef91b3d6610df7954e2604bcb5c&view=sp"
+FORT WAYNE IN 46835","United States of America","2607499000","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-24","2026-10-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5c379ef91b3d6610df7954e2604bcb5c&view=sp"
 "RMD0027943","0037090107","KAC Express","2419 Rosillos Peak Dr
 Spring TX 77386","No","United States of America","None","KAC Express","None","Trung Nguyen","Manager","Service","2419 Rosillos Peak Dr
 Spring TX 77386","United States of America","8323265687","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2025-05-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=40df3a751bfd6610df7954e2604bcb6c&view=sp"
@@ -31981,7 +31967,7 @@ STE 236
 Great Neck NY 11021","No","United States of America","None","V3 Communications
 Brash Concepts","Virtual Voice Versatility","Gil Zaidman","Director","Engineering","1010 Northern Blvd
 STE 236
-Great Neck NY 11021","United States of America","5162793134","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-06-02","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=12e24b878771ea10dd68a9350cbb3506&view=sp"
+Great Neck NY 11021","United States of America","5162793134","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=12e24b878771ea10dd68a9350cbb3506&view=sp"
 "RMD0027986","0037082856","Mass Meetings LLC","1617 Park Pl Ave,
 Fort Worth TX 76110","No","United States of America","None","None","None","Ashley Greco","Manager","Administration","1617 Park Pl Ave,
 Fort Worth TX 76110","United States of America","817-522-5042","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b0aa43c31bb5aa103216433ee54bcb7b&view=sp"
@@ -32136,8 +32122,8 @@ British Columbia","Canada","'+17789848453","","No STIR/SHAKEN Implementation - P
 Gouda 2803PK
 ZH","Netherlands","'+31887887788","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-06-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=54767a37978ee21039deff2ad053af02&view=sp"
 "RMD0028263","0037156817","Tech Amelia, LLC dba Amelia Wireless","1440 S 14th Street
-Fernandina Beach FL 32034","No","United States of America","none","Amelia Wireless","none","Steve Miniea","MGR","Main Office","1440 S 14th Street
-Fernandina Beach FL 32034","United States of America","9044300110","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-06-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=501acb3b97cae2101a6df06ad053af6c&view=sp"
+Fernandina Beach FL 32034","No","United States of America","none","Amelia Wireless","none","Steve Miniea","MGR","Main Office","1629 S 8th Street
+Fernandina Beach FL 32034","United States of America","9044300110","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=501acb3b97cae2101a6df06ad053af6c&view=sp"
 "RMD0028264","0035464791","Elite Voice and Data","24 Dovefield Rd
 Perry Hall MD 21128","No","United States of America","none","none","none","Tim Juras","CEO","Executive","24 Dovefield Rd
 Perry Hall MD 21128","United States of America","410-428-4095","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-27","2026-02-27","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7bf3e3bb874ee210b756c9d9cebb3588&view=sp"
@@ -32192,7 +32178,7 @@ Lexington KY 40503","No","United States of America","None","None","None","Xavier
 Lexington KY 40503","United States of America","8592687473","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-06-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d18422a487d6a610dc5aeac60cbb358e&view=sp"
 "RMD0028403","0037026929","Hurst Systems LLC","46 Five Oaks Dr
 Elizabethtown KY 42701","No","United States of America","None","None","None","Ben Hurst","President","Main","46 Five Oaks Dr
-Elizabethtown KY 42701","United States of America","5023507875","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-06-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=784b2a6c975ea61039deff2ad053afa5&view=sp"
+Elizabethtown KY 42701","United States of America","5023507875","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=784b2a6c975ea61039deff2ad053afa5&view=sp"
 "RMD0028408","0037042165","Scotia Labs Inc.","175 Cow Bay Rd
 Nova Scotia B3G1C3 Eastern Passage, Canada","Yes","Canada","None","None","None","Gurrattan Kaur","Founder & CEO","Management","175 Cow Bay Road
 Eastern Passage B3G1C3
@@ -32316,11 +32302,11 @@ Vero Beach FL 32963","United States of America","7726175285","","No STIR/SHAKEN 
 Leslie GA 31764","No","United States of America","0001855337","Citizens Telephone Co., Inc.
 Sowega.Net","None","Thomas Hickey","Central Office Technician","Central Office","134 N Bailey Ave.
 Leslie GA 31764","United States of America","229-874-2238","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b166874f8792e610dc93b848cebb355c&view=sp"
-"RMD0028569","0037040409","Opiquad, LLC","2585 Millennium Dr., Suite G
-Suite G
-Elgin IL 60124","No","United States of America","None","Fox Valley Internet, Inc.","None","Jason Baartz","Tech Support Manager","Support","2585 Millennium Dr., Suite G
-Suite G
-Elgin IL 60124","United States of America","8477424623","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-06-27","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=42cb17c7db5e6a10ed9f93d4f39619ee&view=sp"
+"RMD0028569","0037040409","Opiquad, LLC","600 Tollgate Rd
+Suite E
+Elgin IL 60123","No","United States of America","None","Fox Valley Internet, Inc.","None","Jason Baartz","Tech Support Manager","Support","600 Tollgate Rd
+Suite E
+Elgin IL 60123","United States of America","8477424623","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=42cb17c7db5e6a10ed9f93d4f39619ee&view=sp"
 "RMD0028574","0036278844","Pronto Connects LLC","9233 Meadows Drive
 Suite 210
 Lone Tree CO 80124","No","United States of America","none","none","none","Richard LANG","President","Executive","9233 Meadows Drive
@@ -32338,7 +32324,7 @@ Richmond KY 40475","United States of America","855-398-1502","","Complete STIR/S
 "RMD0028598","0024211922","Orion Networks, LLC","22820 Portico Place
 Ashburn VA 20148","No","United States of America","none","Call-Path
 Family Phone","none","Michael Morrison","General Manager","Operations","22820 Portico Place
-Ashburn VA 20148","United States of America","7037521999","7037521999","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-07-01","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ea8e9bdc976aea107738f21de053af9f&view=sp"
+Ashburn VA 20148","United States of America","7037521999","7037521999","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ea8e9bdc976aea107738f21de053af9f&view=sp"
 "RMD0028601","0023219439","IT AUDITORS PR CORP","HC 9 BOX 13076
 AGUADILLA PR 00603","No","United States of America","None","None","None","Hector Crespo","CEO","Administration","HC 9 BOX 13076
 AGUADILLA PR 00603","United States of America","7874312602","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-07-11","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f42f44e81bea2e104c2b877ae54bcbb5&view=sp"
@@ -32406,7 +32392,7 @@ Warwick NY 10990","No","United States of America","None","None","None","James Bu
 Warwick NY 10990","United States of America","8457722928","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","Yes","No","2026-02-27","2026-02-27","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a9ccd612db6aa25049639f95f39619fe&view=sp"
 "RMD0028657","0036893238","PRIMEVOIP SOLUTIONS LLC","1209 MOUNTAIN ROAD PL NE STE R
 ALBUQUERQUE NM 87110","No","United States of America","none","none","none","Mark Maratea","Director","Operation","209 MOUNTAIN ROAD PL NE STE R 
-ALBUQUERQUE NM 87110","United States of America","409-269-5171","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-05-18","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=68fa625a976ae25039deff2ad053af7e&view=sp"
+ALBUQUERQUE NM 87110","United States of America","409-269-5171","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=68fa625a976ae25039deff2ad053af7e&view=sp"
 "RMD0028670","0037237088","UmbrellaVoip","2241 Moody Rd
 Warner Robins GA 31088","No","United States of America","None","None","None","UmbrellaVoip","Mr Lee Earl Taylor","Owner","2241 Moody Rd
 Warner Robins GA 31088","United States of America","'+1 6452026577","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8f2e3e9e972a265046e139b0f053afe5&view=sp"
@@ -32421,7 +32407,7 @@ Reston VA 20190","United States of America","'+17035474900","","Partial STIR/SHA
 #10831
 DENVER CO 80203","No","United States of America","0035521335","none","RTK Media, Inc dba TrackDrive","Blake Hilscher","Manager","Admin","1500 N GRANT ST
 #10831
-DENVER CO 80203","United States of America","'+1 719 497 7450","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-10-08","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1575ef9687ee2a90b756c9d9cebb35db&view=sp"
+DENVER CO 80203","United States of America","'+1 719 497 7450","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1575ef9687ee2a90b756c9d9cebb35db&view=sp"
 "RMD0028725","0037134343","Daztel Communications Inc","732 S 6th St
 Las Vegas NV 89101","No","United States of America","None","None","None","Alonso Pla","CTO","Technincal","732 S 6th St
 Las Vegas NV 89101","United States of America","206-817-1291","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-19","2026-02-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=806babd2872ae250dc5aeac60cbb35e5&view=sp"
@@ -32467,7 +32453,7 @@ Chapel Hill NC 27514","United States of America","6154978481","","Complete STIR/
 Suite 607
 Clearwater FL 33764","No","United States of America","None","None","None","Maria Hawley","IT Director","IT Department","19321 US highway 19 N
 Suite 607
-Clearwater FL 33764","United States of America","'+1-978-881-0568","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-08","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=102e983297e2665012c3bffce053af10&view=sp"
+Clearwater FL 33764","United States of America","978-881-0568","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=102e983297e2665012c3bffce053af10&view=sp"
 "RMD0028817","0037241098","Telerain Inc","1930 Rinaldi Street
 Suit #375
 Porter Ranch CA 91326","No","United States of America","0021774872","None","None","Sameer Bhagat","CTO","IT","1930 Rinaldi Street
@@ -32480,10 +32466,10 @@ Surrey SM4 5BQ Morden, United Kingdom","United Kingdom","'+447961386350","","Par
 PO BOX 93562
 Southlake TX 76092","No","United States of America","None","None","None","Shivangi Mody ","Director ","Customer Service ","900 State St 
 PO BOX 93562
-Southlake  TX 76092","United States of America","8442770890","105","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4082e5cb47a26a5073fd0c03e16d438b&view=sp"
+Southlake  TX 76092","United States of America","8442770890","105","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4082e5cb47a26a5073fd0c03e16d438b&view=sp"
 "RMD0028829","0037200441","Massachusetts Local Telephone Company, Inc.","1953 Dorchester Ave.
 Dorchester MA 02124","No","United States of America","0022060784","None","None","Dexter Miller","President","Administration","1953 Dorchester Ave.
-Dorchester MA 02124","United States of America","6177554756","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-07-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b54aa5cb9762e2908031b22de053afcd&view=sp"
+Dorchester MA 02124","United States of America","6177554756","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b54aa5cb9762e2908031b22de053afcd&view=sp"
 "RMD0028831","0037248820","ZeroTime Network LLC","8 The Green STE B
 Dover DE 19901","No","United States of America","None","None","None","Samuel Kimuyu","CEO","Management","8 The Green STE B
 Dover DE 19901","United States of America","302-601-0387","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-02-24","2026-02-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3a0bda07972266507738f21de053afd2&view=sp"
@@ -32543,13 +32529,13 @@ Las Vegas NV 89107","United States of America","5412802588","","Complete STIR/SH
 Jackson MS 39201","No","United States of America","none","none","None","George Perkins","Head Of Compliance","Compliance Department","125 S Congress
 Jackson MS 39201","United States of America","'+1 929 365 8988","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-08-13","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c975ca1187ba6610dd68a9350cbb35c5&view=sp"
 "RMD0029011","0037281870","ECN Pty Ltd","7/10 Benson St
-QLD 4066 Toowong, Australia","Yes","Australia","None","None","None","Mark Garlipp","Mr","Voice","7/10 Benson St
+QLD 4066 Toowong, Australia","Yes","Australia","None","ECN; myCloudPBX; Commsengine; Commsengine.io","None","Mark Garlipp","Director","Voice","7/10 Benson St
 Toowong 4066
-QLD","Australia","'+61731051300","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=13b400611bf2a610c2ae0d47624bcbee&view=sp"
+QLD","Australia","'+61731051300","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-25","2026-10-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=13b400611bf2a610c2ae0d47624bcbee&view=sp"
 "RMD0029012","0031001332","Grayson Data Services LLC","3525 N Causeway Blvd
 Suite 602
-Metairie Louisiana 70002","No","United States of America","none","none","none","Kenneth Grayson","CIO","IT","3525 N Causeway Blvde Suite 602
-Metairie LA 70002","United States of America","5045951579","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=046731a11b72e6104b29a682604bcb60&view=sp"
+Metairie LA 70002","No","United States of America","none","none","none","Kenneth Grayson","CIO","IT","3525 N Causeway Blvde Suite 602
+Metairie LA 70002","United States of America","5045951579","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=046731a11b72e6104b29a682604bcb60&view=sp"
 "RMD0029015","0037283488","Watson Communications Corp","2605 Egypt Rd
 Suite 206
 Trooper PA 19403","No","United States of America","None","None","None","Douglas Welch","Operations Manager","Operations","2605 Egypt Rd
@@ -32582,12 +32568,12 @@ Ste 314 PMB 514
 Las Vegas NV 89119","United States of America","(702) 329-2401","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=505c63f987fa2a10cc02a8ed3fbb35b3&view=sp"
 "RMD0029036","0036964856","Ambivo Inc","700 Craighead St Suite 200
 Nashville TN 37204","No","United States of America","none","none","none","Hemant Gosain","CEO","Executive","700 Craighead St Suite 200
-Nashville TN 37204","United States of America","6506311281","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d480ad9e93362210ae2efdd86cba1095&view=sp"
+Nashville TN 37204","United States of America","6506311281","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d480ad9e93362210ae2efdd86cba1095&view=sp"
 "RMD0029037","0035339456","Intelligent Contacts","5345 Towne Square Dr.
 Suite 165
-Plano TX 75024","No","United States of America","none","none","none","Joel Castile","Support Director","Client Success","5345 Towne Square Dr.
-Suite 165
-Plano TX 75024","United States of America","800-214-7490","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-07-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ad431e3a87b6a210cc02a8ed3fbb35c3&view=sp"
+Plano TX 75024","No","United States of America","none","none","none","Joel Castile","Support Director","Client Success","5999 Custer Rd
+Suite 110-336
+Frisco TX 75035","United States of America","800-214-7490","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ad431e3a87b6a210cc02a8ed3fbb35c3&view=sp"
 "RMD0029038","0037286911","Eurostock","str. Drumul Schinoasei, 1/3, of. 41
  MD2019 Chisinau, Moldova","Yes","Republic of Moldova","None","None","None","Victor Guzun","Mr.","IT","str. Drumul Schinoasei, 1/3, of. 41
  MD2019 Chisinau, Moldova","Republic of Moldova","'+37369770444","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=817c92f68732a210dd68a9350cbb358d&view=sp"
@@ -32599,7 +32585,7 @@ BC V6C1G8 Vancouver, Canada","Yes","Canada","None","none","none","Ehsan Mozaffar
 BC V6C1G8 Vancouver, Canada","Canada","'+12362335332","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f950f0f71b2aaa503c4edb1ee54bcb54&view=sp"
 "RMD0029044","0037274370","Teknollejists Inc","24524 Lincoln Ave
 Murrieta CA 92562","No","United States of America","NONE","NONE","NONE","Greg Kennedy","IT ENGINEER","IT","24524 Lincoln Ave
-Murrieta CA 92562","United States of America","9512529972","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2025-07-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bb38fff2877aa210e1cc75d9cebb355d&view=sp"
+Murrieta CA 92562","United States of America","9512529972","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bb38fff2877aa210e1cc75d9cebb355d&view=sp"
 "RMD0029045","0037300043","Altep Link Limited","Garden City Business Park
  00200 Nairobi, Kenya","Yes","Kenya","None","None","None","Robert Teddy Okonji","Director","Administrate","Garden City Business Park
  00200 Nairobi, Kenya","Kenya","'+17542001684","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=769580838776e210604211fc3fbb359d&view=sp"
@@ -32613,7 +32599,7 @@ Parkwest D12 K19C Dublin, Ireland","Yes","Ireland","none","none","none","Brian C
 Parkwest D12 K19C Dublin, Ireland","Ireland","'+35316877777","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ee244f4f87f6e210369441550cbb35b4&view=sp"
 "RMD0029054","0037304540","UCEASY INC","2296, boul Industriel
 Quebec H7S1P9 Laval, Canada","Yes","Canada","none","none","none","Asaf Waknin","President","CEO","2296, boul Industriel
-Quebec H7S1P9 Laval, Canada","Canada","'+18448232791","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6e4acd1387322610369441550cbb35a9&view=sp"
+Quebec H7S1P9 Laval, Canada","Canada","'+18448232791","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6e4acd1387322610369441550cbb35a9&view=sp"
 "RMD0029056","0037306354","Cal4Care Pte Ltd","27, New Industrail Road,
 Singapore 536212 SINGAPORE, Singapore","Yes","Singapore","None","None","None","Cal4Care Support Team","Support Team","Support","27, New Industrail Road,
 Singapore 536212 SINGAPORE, Singapore","Singapore","'+6563401005","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ff9f8753877e2610369441550cbb35f7&view=sp"
@@ -32655,7 +32641,7 @@ Maharashtra 411014 Pune, India","Yes","India","None","None","None","Amin Shaikh"
 Maharashtra 411014 Pune, India","India","'+91-7057251351","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-15","2026-10-15","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ac72d77b1bb2e610cca55538624bcb91&view=sp"
 "RMD0029076","0037313673","DeusMachina, Inc.","1565 Washington St.
 San Francisco CA 94109","No","United States of America","None","Mitra","None","Sai Mandava","Founder, CEO","Executive","1565 Washington St.
-San Francisco CA 94109","United States of America","'+19016513652","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-07-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3e8f9b771bbaa610c0e74223b24bcb69&view=sp"
+San Francisco CA 94109","United States of America","901-651-3652","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3e8f9b771bbaa610c0e74223b24bcb69&view=sp"
 "RMD0029077","0037315306","Icon Offices Limited","321-323 High Road, Chadwell Heath
 London RM6 6AX London, United Kingdom","Yes","United Kingdom","None","None","None","James Riley","Mr","Operations","321-323 High Road, Chadwell Heath
 Essex RM6 6AX
@@ -32706,7 +32692,7 @@ Columbia SC 29201","No","United States of America","Customer follow up","None","
 Columbia SC 29201","United States of America","7027210443","","Complete STIR/SHAKEN Implementation","No","No","Yes","2025-07-31","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6dff8f0e1bc76250c2ae0d47624bcb06&view=sp"
 "RMD0029107","0028652824","True VoIP Corp","212 N 7th St
 St Joseph MO 64501","No","United States of America","None","None","None","Ryan Rose","Director of Operations","Operations","4402 S 40th St. Ste A
-Saint Joseph MO 64503","United States of America","4175297780","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d144d39a1b07225084ab85d6624bcb01&view=sp"
+Saint Joseph MO 64503","United States of America","4175297780","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d144d39a1b07225084ab85d6624bcb01&view=sp"
 "RMD0029108","0037341161","Ceexo Inc","3700 O Donnell Street
 Suite 200
 Baltimore MD 21224","No","United States of America","None","None","None","Joseph Watson","Quality Service Manager","Network Operations","3700 O Donnell Street
@@ -32805,7 +32791,7 @@ Williamsport PA 17701","United States of America","7869392773","","Complete STIR
 Suite 50-724
 Orlando FL 32819","No","United States of America","None","None","None","Erik Wyand","System Engineer","Admin","7512 Dr. Phillips Blvd.
 Suite 50-724
-Orlando FL 32819","United States of America","4073921580","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-08-31","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5fbde43c97df2a50a59057a00153afd2&view=sp"
+Orlando FL 32819","United States of America","4073921580","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-24","2026-10-24","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5fbde43c97df2a50a59057a00153afd2&view=sp"
 "RMD0029194","0037364353","Futurion Innovations LLC","1940 Fountain View Dr
 3111
 Houston TX 77057","No","United States of America","None","None","None","Daniel Carll","CEO","Management","1940 Fountain View Dr
@@ -32816,12 +32802,12 @@ Macomb MI 48044","No","United States of America","None","None","None","Ciro Vita
 Macomb MI 48044","United States of America","586-260-6672","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-08-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=755805051b1b6e503216433ee54bcbd0&view=sp"
 "RMD0029199","0037122793","Hello Tampa Bay Inc.","11725 101st street north
 Largo FL 33773","No","United States of America","None","None","None","Bruce Meyer","CEO","Sales","11725 101st street north
-Largo FL 33773","United States of America","7272919001","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-08-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b4b6ab111bdb2e50cca55538624bcb2c&view=sp"
+Largo FL 33773","United States of America","7272919001","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b4b6ab111bdb2e50cca55538624bcb2c&view=sp"
 "RMD0029204","0037326006","First Insight Corporation","3916 N Potsdam Ave
 PMB 2166
 Sioux Falls SD 57104","No","United States of America","NONE","NONE","NONE","Trevor Anderson","Product Manager","Engineering","3916 N Potsdam Ave
 PMB 2166
-Sioux Falls SD 57104","United States of America","5037078617","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-04-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=898d53e11b93aad068b6a64ce54bcb1e&view=sp"
+Sioux Falls SD 57104","United States of America","5037078617","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","2026-10-23","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=898d53e11b93aad068b6a64ce54bcb1e&view=sp"
 "RMD0029209","0037339215","Kai Data, LLC","195 W. Main Street
 American Fork UT 84003","No","United States of America","None","Vulcan7","None","Davis MacKay","Director of Support","Customer Support","195 W. Main Street
 American Fork UT 84003","United States of America","513-217-9570","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-05","2026-09-05","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=82f4ffb5879b6e50e1cc75d9cebb35e4&view=sp"
@@ -32832,7 +32818,7 @@ American Fork UT 84003","United States of America","5132179570","","Complete STI
 suite 810
 Miami FL 33155","No","United States of America","None","None","None","Troadio M","Director","Network & Infrastructure","7480 Bird Rd
 suite 810
-Miami FL 33155","United States of America","7863619674","1017","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-08-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=731288861b9bee50c0e74223b24bcbd2&view=sp"
+Miami FL 33155","United States of America","7863619674","1017","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","2026-10-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=731288861b9bee50c0e74223b24bcbd2&view=sp"
 "RMD0029212","0037287943","Calvient Technologies LLC","8704 NW 105th ter
 Oklahoma City OK 73162","No","United States of America","0032853210","Calvient LLC","Calvient LLC","Devon Mobley","Chief Growth Officer","Compliance","629 W Main St. 
 Suite 217
@@ -32863,7 +32849,7 @@ Ripley MS 38663","No","United States of America","0004940367	Dixie-Net Communica
 Ripley MS 38663","United States of America","6625873439","6628374051","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-08-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a28ae72a1b9f229011336467624bcbb7&view=sp"
 "RMD0029258","0037395936","LEXICO TELECOM LTD","Suite C, 2/F, On Lok Mansion, 39-43 Hollywood Road, Central, Hong Kong
   Hong Kong, Hong Kong","Yes","China, Hong Kong SAR","None","None","None","Anastasia Cher","NOC","NOC dpt","Suite C, 2/F, On Lok Mansion, 39-43 Hollywood Road, Central, Hong Kong
-  Hong Kong, Hong Kong","China, Hong Kong SAR","'+13479191560","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-03-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7269b1ba1bdfa2d0b2252062f54bcb28&view=sp"
+  Hong Kong, Hong Kong","China, Hong Kong SAR","'+13479191560","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","Yes","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7269b1ba1bdfa2d0b2252062f54bcb28&view=sp"
 "RMD0029261","0037396637","Nexatel LLC","6701 Corporate Dr,
 Suite 4170
 Johnston IA 50131","No","United States of America","None","None","None","Md. Jamal","COO","Operations","6701 Corporate Dr,
@@ -32892,7 +32878,7 @@ Suite B 1161
 Claymont DE 19703","United States of America","302-273-0048","","Complete STIR/SHAKEN Implementation","Yes","Yes","No","2026-02-20","2026-02-20","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=481832bb8793e210dc5aeac60cbb3559&view=sp"
 "RMD0029276","0036898229","Telecom Broadband Solutions, LLC","202 N Cedar Ave Suite #1
 Owatonna MN 55060","No","United States of America","None","None","None","Mike Raynott","Compliance Department","Compliance Department","202 N Cedar Ave Suite #1
-Owatonna MN 55060","United States of America","3203296117","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-03-27","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bd82abbf471fa210418b674c926d434d&view=sp"
+Owatonna MN 55060","United States of America","3203296117","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","2026-10-21","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bd82abbf471fa210418b674c926d434d&view=sp"
 "RMD0029277","0031100126","Mobile X Global, Inc.","12 Sail Vista
 Newport Coast CA 92657","No","United States of America","None","MobileX","None","Justin O'Neill","General Counsel","Legal","12 Sail Vista
 Newport Coast CA 92657","United States of America","8334221053","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-08-18","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f193ebbb4753e21073fd0c03e16d434c&view=sp"
@@ -33121,10 +33107,10 @@ CHEYENNE WY 82001","No","United States of America","none","none","none","Johanna
 CHEYENNE WY 82001","United States of America","8587523422","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-08-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=15edc92bdbebe61049639f95f3961978&view=sp"
 "RMD0029843","0031779044","Civilization Systems","822 Guilford Ave #126
 Baltimore MD 21202","No","United States of America","None","Essential Tech Support","None","Vanessa Holub","COO","Operations","822 Guilford Ave #126
-Baltimore MD 21202","United States of America","4109212921","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-11-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e4e964b797eb2a107738f21de053afc4&view=sp"
+Baltimore MD 21202","United States of America","4109212921","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","2026-10-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e4e964b797eb2a107738f21de053afc4&view=sp"
 "RMD0029844","0037362035","ICCI, LLC","1325 ROSEWOOD ST
 Ann Arbor MI 48104","No","United States of America","None","icciTel (we own the .com but do not use the name)","None","Aaron Salsitz","Owner","HQ","1325 ROSEWOOD ST
-Ann Arbor MI 48104","United States of America","7349955570","4","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2025-08-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=231abcb3472f2a10418b674c926d43a9&view=sp"
+Ann Arbor MI 48104","United States of America","7349955570","4","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-10-22","2026-10-22","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=231abcb3472f2a10418b674c926d43a9&view=sp"
 "RMD0029849","0037453172","CONNEXT MESSAGING LLC","915 BENNETTS MILLS RD
 UNIT 585
 Jackson NJ 08527","No","United States of America","None","None","None","Y K","Lead Dev","Development","915 BENNETTS MILLS RD
@@ -33256,8 +33242,8 @@ Albuquerque NM 87102","United States of America","7865194793","","Complete STIR/
 San Antonio TX 78230","No","United States of America","None","None","None","Demetrice Rogers","President & CEO","Management","8021 Callaghan Rd
 San Antonio TX 78230","United States of America","2107296888","301","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-07","2026-10-07","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a126d24147f76e1073fd0c03e16d4372&view=sp"
 "RMD0029982","0027430503","WIRED National, LLC","96 W 2nd St.
-Oswego New York 13126","No","United States of America","None","None","Wired Telcom, LLC","Brandon Taylor","IT Manager","IT Support","96 W 2nd St.
-Oswego New York 13126","United States of America","3153260001","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-07","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=673d0a891bb36e10379cec2de54bcb04&view=sp"
+Oswego NY 13126","No","United States of America","None","None","Wired Telcom, LLC","Brandon Taylor","IT Manager","IT Support","96 W 2nd St.
+Oswego NY 13126","United States of America","3153260001","1","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-19","2026-10-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=673d0a891bb36e10379cec2de54bcb04&view=sp"
 "RMD0029983","0034433904","BlueCastle IT Solutions LLC","615 W Johnson Ave
 Suite 218
 Cheshire CT 06410","No","United States of America","None","None","None","Diana Scott","Owner/CEO","Executive","615 W Johnson Ave
@@ -33308,7 +33294,7 @@ South Jordan UT 84095","No","United States of America","0026099770","None","Flag
 South Jordan UT 84095","United States of America","'+1-801-882-5744","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a2a64b0d97f7ae107738f21de053af27&view=sp"
 "RMD0030016","0036835833","LimaTech Solutions LLC","1190 Five Forks Trickum Road
 Lawrenceville GA 30046","No","United States of America","None","None","None","Asmir Hadzic","Lead tech","Support","1190 Five Forks Trickum Road
-Lawrenceville GA 30046","United States of America","7705890599","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-03","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=720a63018737ae10b986a7570cbb35d6&view=sp"
+Lawrenceville GA 30046","United States of America","7705890599","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-25","2026-10-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=720a63018737ae10b986a7570cbb35d6&view=sp"
 "RMD0030017","0037056116","CLH Enterprise LLC","1243 Water Tower PL
 STE 177
 Arnold IL 62295","No","United States of America","none","HTS Nexus","none","Christopher Harness","CEO","Operations","1243 Water Tower PL
@@ -33364,7 +33350,7 @@ BRATTLEBORO VT 05301","United States of America","8022579422","222","No STIR/SHA
 Ste 5273
 Sheridan WY 82801","No","United States of America","None","None","None","Randy Bankofier","Managing Partner","Administration","30 N Gould St
 Ste 5273
-Sheridan WY 82801","United States of America","9712332200","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-04","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a7a6c8a11b7bae10379cec2de54bcbfc&view=sp"
+Sheridan WY 82801","United States of America","9712332200","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","2026-10-22","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a7a6c8a11b7bae10379cec2de54bcbfc&view=sp"
 "RMD0030087","0037467917","ATM0S Research & Development","PO BOX 961
 Paragould AR 72451","No","United States of America","None","None","None","Myles Ainley","CEO","Research & Development","PO BOX 961
 Paragould AR 72451","United States of America","8704501195","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-07","2026-10-07","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6b5150699777ee1046e139b0f053af73&view=sp"
@@ -33372,7 +33358,7 @@ Paragould AR 72451","United States of America","8704501195","","No STIR/SHAKEN I
 Suite I
 Bohemia NY 11716","No","United States of America","None","PBXGlobal","None","Antonio Marcel","CEO","Owner","130 Knickerbocker Ave
 Suite I
-Bohemia NY 11716","United States of America","6315672300","107","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2025-09-04","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=715334211bb7ee103c4edb1ee54bcb09&view=sp"
+Bohemia NY 11716","United States of America","6315672300","107","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","2026-10-19","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=715334211bb7ee103c4edb1ee54bcb09&view=sp"
 "RMD0030089","0036448637","Pure Link Group, LLC","91-371 Komohana Pl
 Building 12 Unit 110
 Kapolei HI 96707","No","United States of America","None","PureLink Voice","None","Rexie Gomez","Chief of Operations","Network","91-371 Komohana Place
@@ -33459,7 +33445,7 @@ Livingston NJ 07039","No","United States of America","None","VoxRush","None","Ce
 Livingston NJ 07039","United States of America","973-974-9330","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-30","2026-09-30","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6ae0943247f32650418b674c926d43a2&view=sp"
 "RMD0030177","0035550177","Untethered Networks, LLC","1132 N Baker Ave
 East Wenatchee WA 98802","No","United States of America","None","Untethered Technologies","None","Josh Waulters","Owner/Managing Memeber","Compliance/Operations","1132 N Baker Ave
-East Wenatchee WA 98802","United States of America","5096610995","110","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-08","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=49052cbe97fb6e508031b22de053afe2&view=sp"
+East Wenatchee WA 98802","United States of America","5096610995","110","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","2026-10-22","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=49052cbe97fb6e508031b22de053afe2&view=sp"
 "RMD0030187","0032977035","RAM Computer Services, LLC","PO Box 786
 Hammond LA 70404","No","United States of America","None","None","None","Ronald Taylor","Owner","VOIP ","PO Box 786
 Hammond LA 70404","United States of America","9856873418","107","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-14","2026-10-14","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=cd6d37be9777265039deff2ad053afb1&view=sp"
@@ -34028,7 +34014,7 @@ Createassistants","None","Michael Copeland","Chief Product Officer","Support","1
 PT CHARLOTTE FL 33981","United States of America","435-850-9393","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2ea47cec1bd03a10c0e74223b24bcbb6&view=sp"
 "RMD0031006","0037456613","GigShot Corp","12 W. Calle Laureles
 Santa Barbara CA 93105","No","United States of America","None","None","None","Dominic Bohnett","CEO","Corporate","12 W. Calle Laureles
-Santa Barbara CA 93105","United States of America","8058953738","","Complete STIR/SHAKEN Implementation","No","Yes","No","2026-10-16","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4d1fedec87583a10dd68a9350cbb35ab&view=sp"
+Santa Barbara CA 93105","United States of America","8058953738","","Complete STIR/SHAKEN Implementation","No","Yes","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4d1fedec87583a10dd68a9350cbb35ab&view=sp"
 "RMD0031007","0037512977","Joostream LLC","1717 N Street NW STE 1
 Washington DC 20036","No","United States of America","None","None","None","Jahanzeb Ahmad Khan","Director","Administration","1717 N Street NW STE 1
 Washington DC 20036","United States of America","'+1 862 413 7652","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-09-30","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ed7a522487d43a10e1cc75d9cebb3540&view=sp"
@@ -34200,8 +34186,8 @@ San Francisco CA 94108","United States of America","415-850-3454","","Complete S
 Demopolis AL 36732","No","United States of America","None","None","None","Tim Bradley Collins","Vice President","None","1009 W Jackson St
 Demopolis AL 36732","United States of America","334-289-0439","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-08","2026-10-08","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e3ec7a3d1b59761068b6a64ce54bcb76&view=sp"
 "RMD0031183","0037577814","APEX TELECO LLC","1001 S . MAIN St . # 12393
-Montana 59901 Kalispell, United States","No","United States of America","None","None","None","Rabiya Shahid","CEO","Executive","1001 S . MAIN St . # 12393 
-KALISPELL MT 59901","United States of America","605-605-6184","","Complete STIR/SHAKEN Implementation","Yes","No","Yes","2026-10-02","2026-10-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c0d6f7399351b61063defb786cba10ed&view=sp"
+Montana 59901 Kalispell, United States","No","United States of America","None","None","None","Rabiya Shahid","CEO","Executive","1501 South Greeley Highway , Suite C29
+Cheyenne WY 82007","United States of America","3075095824","","Complete STIR/SHAKEN Implementation","Yes","No","Yes","2026-10-20","2026-10-02","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c0d6f7399351b61063defb786cba10ed&view=sp"
 "RMD0031186","0037628039","VOIPURA NETWORKS LLC","9324 Menaul Blvd NE
 Albuquerque NM 87112","No","United States of America","None","None","None","Sophia Miller","CEO","Company Authorised Signatory","585 California St #1237
 San Francisco CA 94108","United States of America","212-458-9648","","Complete STIR/SHAKEN Implementation","Yes","No","No","2025-11-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d47f7d821bd5b610eb9364eae54bcb78&view=sp"
@@ -34999,7 +34985,7 @@ DETROIT MI 48228","No","United States of America","None","None","None","Amber Si
 DETROIT MI 48228","United States of America","313 497 1357","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-01-17","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=dae177641b623210c2ae0d47624bcbbd&view=sp"
 "RMD0032105","0037697455","CONSULTIZOR LLC","312 W 2nd ST Unit A2924
 Casper WY 82601","No","United States of America","None","None","None","Muhammad Nazim","CEO","Admin","312 W 2nd ST Unit A2924
-Casper WY 82601","United States of America","206-317-1316","","Complete STIR/SHAKEN Implementation","No","Yes","Yes","2026-02-25","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=454bca9d1b6a72103216433ee54bcb1b&view=sp"
+Casper WY 82601","United States of America","206-317-1316","","Complete STIR/SHAKEN Implementation","Yes","Yes","No","2026-10-21","2026-02-25","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=454bca9d1b6a72103216433ee54bcb1b&view=sp"
 "RMD0032106","0037895778","Junction Computers LTD T/A Tri Computers","Unit 4C Woodley Park Estate
 Berkshire RG5 3AW Reading, United Kingdom","Yes","United Kingdom","None","None","None","Dexter Ryan","Director","Management","Unit 4C Woodley Park Estate
 Berkshire RG5 3AW Reading, United Kingdom","United Kingdom","'+441184139990","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-01-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6e2aae9187ea7210e1cc75d9cebb35e2&view=sp"
@@ -35506,7 +35492,7 @@ Calgary T2G 4YE
 Alberta","Canada","'+14037683173","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-02-03","2026-02-03","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=fba0eac51bfefe1084ab85d6624bcb68&view=sp"
 "RMD0032397","0030315535","Xpert Computer Shop","347 mercer dr
 COBB GA 31735","No","United States of America","NONE","NONE","NONE","DAVID shawn LUVIN","OWNER","ME","347 mercer dr
-COBB GA 31735","United States of America","2299389001","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-01-31","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e2ff6e551bfa3250eb9364eae54bcbec&view=sp"
+COBB GA 31735","United States of America","2299389001","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e2ff6e551bfa3250eb9364eae54bcbec&view=sp"
 "RMD0032399","0037962586","Motion Source","1225 West Ave
 401
 Miami Beach FL 33139","No","United States of America","None","None","None","Nikola Paunovski","President","VoIP","1225 West Ave
@@ -40375,8 +40361,8 @@ Houston TX 77064","United States of America","'+19152653906","","No STIR/SHAKEN 
 La Puente CA 91744","No","United States of America","None","None","None","Ricardo Diaz","CEO","Operations","15526 Amar rd
 La Puente CA 91744","United States of America","6269000181","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-03-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e3dd402e1bbbfe10eb9364eae54bcb4e&view=sp"
 "RMD0039269","0038184891","DIALSYNC SOLUTIONS LLC","30 N Gould St Ste R
-Sheridan WY 82801","No","United States of America","None","None","None","Muhammad Shafiq Ahmad","Director - VOIP Administrator","NOC Department","30 N Gould St Ste R
-Sheridan WY 82801","United States of America","'+13073108485","'+1307310848","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8d322cee1bb7b650b2252062f54bcb20&view=sp"
+Sheridan WY 82801","No","United States of America","None","None","None","Muhammad Shafiq Ahmad","Director - (Chief Executive Officer)","Operations Department","30 N Gould St Ste R
+Sheridan WY 82801","United States of America","746-209-7922","'+44","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8d322cee1bb7b650b2252062f54bcb20&view=sp"
 "RMD0039271","0038117958","GAMEFORCE TELECOM LIMITED LIABILITY COMPANY","35 calle juan c borbon ste 67 PMB
 guaynabo PR 00969","No","United States of America","None","None","None","Garrett Mendelsohn","CEO","Compliance","35 calle juan c borbon ste 67 PMB
 guaynabo PR 00969","United States of America","'+1 801 678 6708","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f5bfca2873ffe10e1cc75d9cebb3500&view=sp"
@@ -41069,8 +41055,8 @@ Miami FL 33126","No","United States of America","None","None","None","Ronald Mar
 Suite 303
 Miami FL 33126","United States of America","(321) 460-3280","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-04-18","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5ec17a0a975043107738f21de053af9d&view=sp"
 "RMD0039780","0038313276","AuxiliaryIP Solutions LLC","1290 Broadway, Suite 320
-Denver CO 80203","No","United States of America","NA","NA","None","Daniel Foster","Legal Counsel","Legal Affairs","1290 Broadway, Suite 320
-Denver CO 80203","United States of America","'+1 (720)-206-2899","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-07-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=931a76061b5043104ff40e1ce54bcb14&view=sp"
+Denver CO 80203","No","United States of America","NA","NA","None","Daniel Foster","Carrier Operations Manager ","Carrier Operations","1290 Broadway, Suite 320
+Denver CO 80203","United States of America","'+1 (720)-206-2899","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=931a76061b5043104ff40e1ce54bcb14&view=sp"
 "RMD0039781","0038315735","KD Molle Enterprises Inc","17802 Rose St
 c/o Kevin Molle
 California CA 92345","No","United States of America","None","K.D. Molle Enterprises, Inc.","None","Kevin Molle","CEO","Management","17802 Rose St
@@ -41858,8 +41844,8 @@ Columbus OH 43214","United States of America","6143853019","6143853019","Complet
 QLD 4000 Brisbane, Australia","Yes","Australia","0031453665","None","None","Kevin Tee","GM - Operations","NOC/Operations","L14, 1 Eagle Street
 QLD 4000 Brisbane, Australia","Australia","'+61283176200","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-05-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=00439f8fcf854b10b16ffa742f851c93&view=sp"
 "RMD0040325","0038476974","LEXICO AMERICAS LLC","133 Stowe Ct
-Fox Lake Illinois 60020","No","United States of America","0037395936","None","None","Oleksandr Shneyderis","Director","Management","133 Stowe Ct
-Fox Lake Illinois 60020","United States of America","347-919-6890","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-10-12","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=775b3b0b3b490b10f0959d0864e45aa4&view=sp"
+Fox Lake IL 60020","No","United States of America","0037395936","None","None","Oleksandr Shneyderis","Director","Management","133 Stowe Ct
+Fox Lake IL 60020","United States of America","347-919-6890","","Complete STIR/SHAKEN Implementation","No","No","Yes","2026-10-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=775b3b0b3b490b10f0959d0864e45aa4&view=sp"
 "RMD0040326","0038477246","Epic Communication & Technologies, Inc","20251 LANGFORD ROAD
 Alva FL 33920","No","United States of America","None","None","None","Mike Nelson","Owner","Support","20251 LANGFORD ROAD
 Alva FL 33920","United States of America","2396347411","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-05-29","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=62f47013cf414b10c070f3542f851c7d&view=sp"
@@ -41942,7 +41928,7 @@ Suite 1061
 Sioux Falls SD 57104","United States of America","212-290-9010","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-02","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8050307ccf9543504470b6770f851cfa&view=sp"
 "RMD0040367","0038481081","Driveon Services LLC","667 MADISON AVE
 NEW YORK NY 10065","No","United States of America","NA","NA","NA","EON A ADAMS","PRESIDENT","COMPLIANCE","667 MADISON AVE
-NEW YORK NY 10065","United States of America","409-978-8824","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3a778138939d0350aca833a058373cd7&view=sp"
+NEW YORK NY 10065","United States of America","409-978-8824","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3a778138939d0350aca833a058373cd7&view=sp"
 "RMD0040368","0038488870","Uni Globe Corp. LTD","71-75 Shelton Street, Covent Garden
  WC2H 9JQ London, United Kingdom","Yes","United Kingdom","None","None","None","Ibrahim Dwidar","CEO","IT","71-75 Shelton Street
 Covent Garden
@@ -42275,7 +42261,7 @@ Dunmore PA 18512","No","United States of America","None","None","None","Andrew R
 Dunmore PA 18512","United States of America","5704568100","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-06-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1038061b932d47104176171d48373c04&view=sp"
 "RMD0040588","0038548525","MTELECO LLC","6749 Fulton St E Ste A
 Ada MI 49301","No","United States of America","NONE","NONE","NONE","Mubashar Sabir","Managing Member","Compliance","6749 Fulton St E Ste A
-Ada MI 49301","United States of America","616-337-3856","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-06-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e0385e97932d0710dec6791d48373c60&view=sp"
+Ada MI 49301","United States of America","616-337-3856","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e0385e97932d0710dec6791d48373c60&view=sp"
 "RMD0040589","0038532263","Tek Solutions of Louisiana","65 Riverdale Dr
 Covington LA 70433","No","United States of America","None","None","None","Quad Smalley","Owner","Owner","65 Riverdale Dr
 Covington LA 70433","United States of America","3183553776","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-06-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=21fe96d3cf2187105791bf252f851cb9&view=sp"
@@ -42329,9 +42315,9 @@ APT 1204
 Oakland CA 94607","United States of America","3412136301","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-06-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8e4491c43b71cb10264ea2d964e45a68&view=sp"
 "RMD0040627","0038588778","Interalto LLC","30 Montgomery Street
 Suite 1200 #26
-Jersey City NY 07302","No","United States of America","None","None","None","Mr. Jacob Kushner","CEO","Executive","30 Montgomery Street
+Jersey City NJ 07302","No","United States of America","None","AllSignal","None","Mr. Jacob Kushner","CEO","Executive","30 Montgomery Street
 Suite 1200 #26
-Jersey City NY 07302","United States of America","5515503800","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-06-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f6be544cffd0b1051f1b5642f851c1a&view=sp"
+Jersey City NJ 07302","United States of America","5515503800","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1f6be544cffd0b1051f1b5642f851c1a&view=sp"
 "RMD0040629","0037026770","Verscom, Inc.","501 Silverside Road
 Suite 105
 Wilmington DE 19809","No","United States of America","None","None","None","Emir Nil","CAO","Legal","501 Silverside Road
@@ -43062,11 +43048,11 @@ Sacramento CA 95825","United States of America","(916) 698-8906","","Partial STI
 Springfield IL 62703","No","United States of America","None","None","None","Joshua Womack","President","Office","2651 S 5th St
 Springfield IL 62703","United States of America","2173815836","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-08-28","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0df7fea8cfcf4b10960df56b1f851c52&view=sp"
 "RMD0041499","0038819884","VoiceEra Tech LLC","5900 BALCONES DR STE 47229
-AUSTIN TX 78731","No","United States of America","None","None","None","SYED AOWN ABBAS HAMDANI","Director (Chief Executive Officer)","NOC - Operations Department","5900 BALCONES DR STE 47229
-AUSTIN TX 78731","United States of America","307-310-8484","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f82f2f6493838b104176171d48373c7b&view=sp"
+AUSTIN TX 78731","No","United States of America","None","None","None","Muhammad Mubashir","Director (Chief Executive Officer)","NOC - Operations Department","5900 BALCONES DR STE 47229
+AUSTIN TX 78731","United States of America","307-310-8484","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f82f2f6493838b104176171d48373c7b&view=sp"
 "RMD0041501","0038820056","Call Edge LLC","5900 BALCONES DR STE 48760
-AUSTIN TX 78731","No","United States of America","None","None","None","Awais Ahmed","Director (Chief Executive Officer)","NOC - Operations Department","5900 BALCONES DR STE 48760
-AUSTIN TX 78731","United States of America","737-355-0450","1","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1151c7b4cfc34f10cd85b0113d851cfb&view=sp"
+AUSTIN TX 78731","No","United States of America","None","None","None","Namra Idrees","Director (Chief Executive Officer)","NOC - Operations Department","5900 BALCONES DR STE 48760
+AUSTIN TX 78731","United States of America","737-355-0450","1","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=1151c7b4cfc34f10cd85b0113d851cfb&view=sp"
 "RMD0041503","0038173936","Advanced Network Communications LLC","1001 S. Main St.
 STE 600
 Kalispell MT 59901","No","United States of America","None","None","None","Md Jewel Rana","CEO","Compliance","1001 S. Main St.
@@ -43210,9 +43196,9 @@ Flemington NJ 08822","United States of America","'+1 625-802-3744","","Complete 
 "RMD0041653","0038881942","Steward IT LLC","1840 Motor Ave
 Kingman AZ 86401","No","United States of America","None","Steward IT","None","Eric Chastain","Owner","Compliance","1840 Motor Ave
 Kingman AZ 86401","United States of America","928-888-9928","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=6429c68ecf57831099ddf9f42f851cb0&view=sp"
-"RMD0041654","0038882098","VOXQUANTA LLC","600 S Douglas Rd
+"RMD0041654","0038882098","VOXQUANTA LLC","2600 S Douglas Rd
 Coral Gables FL 33134","No","United States of America","None","None","None","Brett Uslaner","CEO","Support","600 S Douglas Rd
-Coral Gables FL 33134","United States of America","212-465-7865","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5e2e4e02cf9f8310b16ffa742f851c7c&view=sp"
+Coral Gables FL 33134","United States of America","212-465-7865","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5e2e4e02cf9f8310b16ffa742f851c7c&view=sp"
 "RMD0041656","0031411366","My Internet Support, LLC","P.O Box 370653
 Denver CO 80237","No","United States of America","None","None","None","Leon Zetekoff","Regulatory & Vendor Relations Manager","Operations / Engineering","P.O Box 370653
 Denver CO 80237","United States of America","202-747-1522","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-14","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=eee892c6cf5b8310905afe152f851c5a&view=sp"
@@ -43355,7 +43341,7 @@ NEWARK NJ 07103","No","United States of America","None","None","None","Michael M
 NEWARK NJ 07103","United States of America","'+14435569872","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2f2b9a9ccfebc310ade47d642f851c06&view=sp"
 "RMD0041741","0038860649","Pulse Telesystems Inc","8 The Green #7670
 Dover DE 19901","No","United States of America","NONE","NONE","NONE","Hiroshan Gopalapillai","CEO","Compliance Dept.","8 The Green #7670
-Dover DE 19901","United States of America","4156517131","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=50a7ae50cf2f4b10c2eff2c42f851cc6&view=sp"
+Dover DE 19901","United States of America","4156517131","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=50a7ae50cf2f4b10c2eff2c42f851cc6&view=sp"
 "RMD0041744","0038919361","Coastline CRM LLC","539 W. Commerce St
 #1466
 Dallas TX 75208","No","United States of America","None","None","None","Austin DeBerry","Founder, CEO","Executive","539 W. Commerce St
@@ -43384,7 +43370,7 @@ Yakima WA 98902","No","United States of America","None","None","None","Matthew C
 Yakima WA 98902","United States of America","5092488309","109","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ab3c83a8cf2f4710905afe152f851c47&view=sp"
 "RMD0041765","0038924916","Clearpoint Communications, LLC","P.O BOX 4492
 Oneida TN 37841","No","United States of America","None","None","None","Clayton Posey","CEO","Executive","P.O Box 4492
-Oneida TN 37841","United States of America","4232190010","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=fa6fdc74cfab8710772f35941f851cc0&view=sp"
+Oneida TN 37841","United States of America","4232190010","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=fa6fdc74cfab8710772f35941f851cc0&view=sp"
 "RMD0041766","0038736997","GRADIENT CONNECT LLP","1801 West End Ave
 Nashville TN 37203","No","United States of America","None","None","None","James Persky","CEO","Operations","1801 West End Ave
 Nashville TN 37203","United States of America","951-428-1484","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-09-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=903609b4cfa7cf10c2eff2c42f851c16&view=sp"
@@ -43418,7 +43404,7 @@ Decorah IA 52101","United States of America","5633809663","","Complete STIR/SHAK
 #13046
 Kalispell MT 59901","No","United States of America","none","none","none","Tracy Habecker","CEO","Legal","1001 S. Main St.
 #13046
-Kalispell MT 59901","United States of America","5415218719","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8a0545d53be38b10b46cf98c24e45aca&view=sp"
+Kalispell MT 59901","United States of America","9713697726","","Complete STIR/SHAKEN Implementation","Yes","No","Yes","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=8a0545d53be38b10b46cf98c24e45aca&view=sp"
 "RMD0041792","0038903258","Nexora Communications LLC","5900 Balcones Drive #32131
 Austin TX 78731","No","United States of America","NONE","NONE","NONE","Lazmee Sheikh","CEO","Admin & Compliance","5900 Balcones Drive #32131
 Austin TX 78731","United States of America","207-855-5490","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-09-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=b1d63e55cfaf435006fffff42f851c85&view=sp"
@@ -43497,7 +43483,7 @@ Chattanooga TN 37415","No","United States of America","None","None","None","Jays
 Chattanooga TN 37415","United States of America","256-939-1857","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-01","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0fd561e393a70b102c8b752888373cd5&view=sp"
 "RMD0041878","0038963328","Richmond Legal Consultant LLC","Shockoe Slip 11 South 12th Street
 Richmond VA 23219","No","United States of America","None","None","None","Jayson Nathaniel ","Director","Compliance","Shockoe Slip 11 South 12th Street
-Richmond VA 23219","United States of America","972-846-0390","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-09","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3de95eeb93eb0b102c8b752888373ce2&view=sp"
+Richmond VA 23219","United States of America","972-846-0390","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","Yes","Yes","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=3de95eeb93eb0b102c8b752888373ce2&view=sp"
 "RMD0041879","0034450817","Viable Wireless","309 West 3rd Street
 Waverly OH 45690","No","United States of America","None","Cellular Mobile","None","Joshua Vanhouten","CEO","CEO","613 South Market Street
 APT 5
@@ -43691,7 +43677,7 @@ Houston TX 77084","No","United States of America","None","None","None","Isaac Mu
 Houston TX 77084","United States of America","(409) 223-8317","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=7f916640cf4c9b1006fffff42f851c9d&view=sp"
 "RMD0042160","0039021498","Vensmart security sas","kr 83E #42-71 Apto 401A torre A Unidad rincon del Caney.
 Valle del cauca 760026 cali, Colombia","Yes","Colombia","none","none","none","Freddy Alejandro Barraes Vivas","CEO","Director","kr 83E #42-71 Apto 401A torre A Unidad rincon del Caney.
-Valle del cauca 760026 cali, Colombia","Colombia","'+573116480037","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-15","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f4a20300cf005b1058a3fe052f851c42&view=sp"
+Valle del cauca 760026 cali, Colombia","Colombia","'+573116480037","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f4a20300cf005b1058a3fe052f851c42&view=sp"
 "RMD0042161","0028896884","HDC Alpha, LLC","170 S. Green Valley Pkwy.
 Suite 300
 Henderson NV 89012","No","United States of America","None","None","None","Bryan Petersen","Chief Network Officer","Network","170 S. Green Valley Pkwy.
@@ -43734,3 +43720,88 @@ STE 4
 TEMPE AZ 85281","No","United States of America","None","None","None","JOE GARCIA","PARTNER","PARTNER","688 W 1ST ST
 STE 4
 TEMPE AZ 85281","United States of America","602-490-0990","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=e6b49d553bc813107be9f5ac24e45a35&view=sp"
+"RMD0042204","0039034186","CTX Technology, LLC","122 Kainos St
+Greenville TX 75402","No","United States of America","0038963062","None","None","CTX Technology, LLC","Founder","Owner","122 Kainos St.
+Greenville TX 75402","United States of America","945-404-5500","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=57d70a193b0053107491fcc964e45adc&view=sp"
+"RMD0042207","0038772935","Nova Wholesale Bridge Inc","3300 S Parker Rd STE 205
+Aurora CO 80014","No","United States of America","None","None","None","Carlos Gomez","Vice President ","Risk Management ","3300 S Parker Rd STE 205
+Aurora CO 80014","United States of America","645-257-8334","","Complete STIR/SHAKEN Implementation","Yes","Yes","No","2026-10-19","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c6a882513b4053101c9b37ac24e45aa7&view=sp"
+"RMD0042218","0039019013","Wilixifysoft","15442 Ventura Blvd
+Sherman Oaks CA 91403","No","United States of America","None","None","None","Keino Brown","Owner","None","15442 Ventura Blvd
+Sherman Oaks CA 91403","United States of America","8776521644","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=d6641e69934cd310dec6791d48373c74&view=sp"
+"RMD0042237","0039006754","MeiSim USA LLC","554 S San Vicente blvd
+Suite 108
+Los Angeles CA 90048","No","United States of America","None","MeiSIM USA; torah613.app","None","Saul Eini","Manager","Management","554 S San Vicente blvd
+Suite 108
+Los Angeles CA 90048","United States of America","3234232040","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=610ec4f5cf00171013fc36452f851c2d&view=sp"
+"RMD0042245","0029933728","Precision Tecknology, LLC","305 N Main St
+PO Box 22
+Christiansburg OH 45389","No","United States of America","None","None","None","Daniel Welty","Owner","None","305 N Main St
+PO Box 22
+Christiansburg OH 45389","United States of America","9378579378","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-20","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=4076ec7d33c8d31009ad38a9ed5c7b84&view=sp"
+"RMD0042250","0039042494","Vitarasolutions LLC","303 Twin Dolphin Drive
+Redwood CA 94065","No","United States of America","NA","NA","NA","Taylor Smith","Director","Administration","303 Twin Dolphin Drive
+Redwood CA 94065","United States of America","'+1 2463900893","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=918fc2bdcfc417103bc3f2961f851cbe&view=sp"
+"RMD0042258","0039043047","Cerberus Safety Systems, LLC","1004 Rosedale Dr
+St Albans WV 25177","No","United States of America","none","none","none","Christopher Bumgarner","CEO","Executive","1004 Rosedale Dr
+St Albans WV 25177","United States of America","3048902071","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=30dab3752f405710c7a543ca6fa4e3f1&view=sp"
+"RMD0042270","0037972536","Alfa Systems Corp","115 Druid Hill Ave
+Methuen MA 01844","No","United States of America","none","Alfa Computer","none","Tan Nguyen","President","Executive","115 Druid Hill Ave
+Methuen MA 01844","United States of America","7819329801","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=5c434d0e2f885710c7a543ca6fa4e3c9&view=sp"
+"RMD0042271","0039044730","DN Ventures LLC","9728 Dream Brook Ct
+Las Vegas NV 89149","No","United States of America","None","None","None","Dimitri Tohmr","Founder","Operations","9728 Dream Brook Ct
+Las Vegas NV 89149","United States of America","'+17024813199","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=038585063b0c57101c9b37ac24e45af0&view=sp"
+"RMD0042274","0039044367","Lysterium Inc.","2 Sheppard Ave E
+ON M2N 5Y7 North york, Canada","Yes","Canada","None","None","None","David Xilang Shi","Co Founder","IT","2 Sheppard Ave E
+ON M2N 5Y7 North york, Canada","Canada","'+19058722270","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=64f255cacfc097109d5eb42b1f851c09&view=sp"
+"RMD0042277","0039045588","Nexdial Inc","6844 Bardstown Rd
+Louisville KY 40291","No","United States of America","None","None","None","Mario Gobran","Compliance Contact","Compliance","6844 Bardstown Rd
+Louisville KY 40291","United States of America","8066024040","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-10-21","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=946371ce3388571009ad38a9ed5c7b00&view=sp"
+"RMD0042280","0038918728","Nohl Inc.","221 W 9TH STREET SUITE 704
+WILMINGTON DE 19801","No","United States of America","None","None","None","Aiden  Alvarez","CEO","Compliance","221 W 9TH STREET SUITE 704 
+None
+WILMINGTON DE 19801","United States of America","8089770378","8089770378","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-24","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=0be0a28e3b801f10f9a3b2ac24e45ae2&view=sp"
+"RMD0042288","0037104056","Messenger Communications Inc.","812 State Fair Blvd
+Suite 2D
+Syracuse NY 13209","No","United States of America","None","Cloud10 Communications","None","Christopher Wilcken","CEO","CEO","812 State Fair Blvd
+Suite 2D
+Syracuse NY 13209","United States of America","3152632182","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=120b4552cf80d710a015fb642f851c18&view=sp"
+"RMD0042305","0039047972","JPB IT SOLUTIONS","316 W Harrison Ave
+Wheaton IL 60187","No","United States of America","None","None","None","JPB IT SOLUTIONS","Owner","IT","316 W Harrison Ave
+Wheaton IL 60187","United States of America","6305370830","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-22","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=a3950e962fc8d710c7a543ca6fa4e323&view=sp"
+"RMD0042314","0039042882","CallPad Inc.","1635 Center St
+Point Pleasant Boro NJ 08742","No","United States of America","None","CallPad","None","Kevin Sean Scalabrini","CTO","Executive / Technology","1635 Center St
+Point Pleasant Boro NJ 08742","United States of America","9737416865","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=675cfd263bc81b107491fcc964e45a1b&view=sp"
+"RMD0042315","0039040092","IXICA USA INC.","701 Tillery Street
+Ste 12 PMB 303
+Austin TX 78702","No","United States of America","None","IXICA","None","Jenoshan Balasingam","Director","IT","701 Tillery Street
+Ste 12 PMB 303
+Austin TX 78702","United States of America","647-910-1100","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=77c84a26cf8c1b10cd85b0113d851c07&view=sp"
+"RMD0042321","0038947511","RIA NETWORKS, LLC","9211 Forest Hill Ave #200
+Richmond VA 23235","No","United States of America","N/A","N/A","N/A","Henry Perez","Manager","Management","9211 Forest Hill Ave #200
+Richmond VA 23235","United States of America","'+1 904 445 1010","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=20262eea2f489b10c7a543ca6fa4e30e&view=sp"
+"RMD0042322","0039047253","KSWAP NETWORKS LLC","254 Chapman Rd Ste 208
+NEWARD DE 19702","No","United States of America","N/A","N/A","N/A","Adriana Rangel ","Manager","Management","254 Chapman Rd Ste 208
+NEWARD DE 19702","United States of America","'+1 (302) 302-1652","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","Yes","Yes","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=f4b9aaa6cf809b1013fc36452f851c35&view=sp"
+"RMD0042326","0039033436","Khaltrix LLC","1001 S. Main St. #12590
+Kalispell MT 59901","No","United States of America","NONE","NONE","NONE","Khalid mehmood","CEO","Compliance ","1001 S. Main St. #12590
+Kalispell MT 59901","United States of America","406-325-1697","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=397def2e3b4c5b100c6492ac24e45a02&view=sp"
+"RMD0042327","0039033394","Muqatel Networks LLC","1001 S. Main St. #11256
+Kalispell MT 59901","No","United States of America","None","None","None","Muqadam Mehmood","Managing Member","Admin & Compliance","1001 S. Main St. #11256
+Kalispell MT 59901","United States of America","406-325-1773","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-23","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=94ae632e2f84db10c7a543ca6fa4e3e5&view=sp"
+"RMD0042347","0039059365","Bonmoniq SASU","47 rue Vivienne
+Ile-de-France 75002 Paris, France","Yes","France","None","Bonmoniq","None","Dmitrii Poroshkov","President","Management","47 Rue Vivienne
+Paris 75002
+�le-de-France","France","'+33189317772","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-25","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=c72a4213cf00df109d5eb42b1f851c46&view=sp"
+"RMD0042348","0039059381","MEISHENG TECHNOLOGY","15627 Palomino Dr
+Chino Hills CA 91709","No","United States of America","None","MeiSheng Technology; MeiSheng Call","None","Zhen Hu","CEO","Executive","15627 Palomino Dr
+Chino Hills CA 91709","United States of America","6266588964","","No STIR/SHAKEN Implementation - Performing Robocall Mitigation","Yes","No","No","2026-10-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=bbcb0a9fcf405f10cd85b0113d851c11&view=sp"
+"RMD0042351","0038745790","Technology Catapult","202 N Cedar Ave Suite #1,
+Owatonna MN 55060","No","United States of America","None","None","None","Dylan Cruz","CEO","Compliance","202 N Cedar Ave Suite #1,
+Owatonna MN 55060","United States of America","3203296780","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=2e747b9bcf405b5041c97f152f851cc4&view=sp"
+"RMD0042352","0039003835","SIP Conexa LLC","1300 Clay Street Suite 600 Oakland, CA 9
+Oakland CA 94612","No","United States of America","NA","NA","NA","Hector Bell","Director","Carrier Department","1300 Clay Street Suite 600 Oakland, CA 9
+Oakland CA 94612","United States of America","7655188093","","Partial STIR/SHAKEN Implementation - Performing Robocall Mitigation","No","No","Yes","2026-10-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=722d3f97930cdf102591081d48373c92&view=sp"
+"RMD0042353","0036898468","Telecom Consulting Services, LLC","4431 Arden View Court
+Arden Hills MN 55112","No","United States of America","None","No","No","Brent Christensen","CEO","Compliance","4431 Arden View Court
+Arden Hills MN 55112","United States of America","3203296229","","Complete STIR/SHAKEN Implementation","Yes","No","No","2026-10-26","","https://fccprod.servicenowservices.com/rmd?id=rmd_form&table=x_g_fmc_rmd_robocall_mitigation_database&sys_id=ba03ac23cfc0df1013fc36452f851cfa&view=sp"
